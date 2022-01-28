@@ -1,5 +1,5 @@
 # 💫 About me:
-Hello there! My name is Danillo and currently I'm a Science Computer student. Pronouns: He/Him.
+Hello there! My name is Danillo and currently I'm a Computer Science student. Pronouns: He/Him.
 
 # 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/danilloilggner) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/danilloism) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/danilloism) 
