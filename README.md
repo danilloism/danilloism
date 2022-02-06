@@ -1,4 +1,4 @@
-# 💫 About me:
+# 🌈 About me:
 Hello there! My name is Danillo and currently I'm a Computer Science student. Pronouns: He/Him.
 
 # 🌐 Socials:
@@ -16,4 +16,6 @@ Hello there! My name is Danillo and currently I'm a Computer Science student. Pr
 ![](https://github-readme-stats.vercel.app/api?username=danilloism&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=danilloism&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=danilloism&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+# 📒 Portfolio Projects
+## Flutter
+[![Recipe App](https://img.shields.io/badge/Recipe.App-green?style=for-the-badge&logo=github)](https://github.com/danilloism/portfolio.recipe-app) [![Gas Calculator](https://img.shields.io/badge/Gas.Calculator-red?style=for-the-badge&logo=github)](https://github.com/danilloism/portfolio.alcool_gasolina) [![Layout Exercise](https://img.shields.io/badge/Layout.Exercise-blue?style=for-the-badge&logo=github)](https://github.com/danilloism/portfolio.teste_layout)
