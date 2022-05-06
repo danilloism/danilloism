@@ -5,7 +5,7 @@ Hello there! My name is Danillo and currently I'm a Computer Science student at 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/danilloilggner) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/danilloism) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/danilloism) 
 
 # 💻 Tech stack:
-> Click in the shield to go to my related projects
+> Click the shield to go to related projects
 
 - 🔭 Working with/studying:
 
