@@ -28,5 +28,88 @@ Hello there! My name is Danillo and currently I'm a Computer Science student at 
 <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilloism&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="250" alt="Danillo Ilggner's Language Stats"/></a><br>
 <a href="#"><img src="https://github.com/danilloism/danilloism/blob/main/devcard.svg" width="250" alt="Danillo Ilggner's daily.dev Card"/></a>
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-268%20hrs%2045%20mins-blue)
 
+![Profile Views](http://img.shields.io/badge/Profile%20Views-127-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 697 Contributions in the Year 2022
+ > 
+> 📦 237.8 kB Used in GitHub's Storage 
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 21 Public Repositories 
+ > 
+> 🔑 7 Private Repositories  
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    117 commits    █████░░░░░░░░░░░░░░░░░░░░   22.59% 
+🌆 Daytime    309 commits    ███████████████░░░░░░░░░░   59.65% 
+🌃 Evening    65 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.55% 
+🌙 Night      27 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.21%
+
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday       80 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.44% 
+Tuesday      43 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.3% 
+Wednesday    64 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.36% 
+Thursday     70 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.51% 
+Friday       101 commits    █████░░░░░░░░░░░░░░░░░░░░   19.5% 
+Saturday     60 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.58% 
+Sunday       100 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.31%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: America/Sao_Paulo
+
+💬 Programming Languages: 
+TypeScript               7 hrs 51 mins       ██████████████████░░░░░░░   73.8% 
+Other                    1 hr 28 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.82% 
+JSON                     48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   7.59% 
+JavaScript               27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.36% 
+SQL                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.3%
+
+🔥 Editors: 
+VS Code                  10 hrs 39 mins      █████████████████████████   100.0%
+
+🐱‍💻 Projects: 
+imobtelecom-api          5 hrs 23 mins       ████████████░░░░░░░░░░░░░   50.69% 
+laboratorio_ferreira_api 4 hrs 35 mins       ██████████░░░░░░░░░░░░░░░   43.16% 
+testeGeo                 32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.13% 
+Unknown Project          6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.02%
+
+💻 Operating System: 
+Linux                    6 hrs 7 mins        ██████████████░░░░░░░░░░░   57.54% 
+Windows                  4 hrs 31 mins       ██████████░░░░░░░░░░░░░░░   42.46%
+
+```
+
+**I Mostly Code in C++** 
+
+```text
+C++                      8 repos             ███████░░░░░░░░░░░░░░░░░░   28.57% 
+Dart                     8 repos             ███████░░░░░░░░░░░░░░░░░░   28.57% 
+TypeScript               5 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.86% 
+HTML                     4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
+JavaScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.71%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/danilloism/danilloism/main/charts/bar_graph.png) 
+
+
+ Last Updated on 14/05/2022 16:37:05 UTC
 <!--END_SECTION:waka-->
