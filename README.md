@@ -27,3 +27,5 @@ Hello there! My name is Danillo and currently I'm a Computer Science student at 
 --->
 <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilloism&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="250" alt="Danillo Ilggner's Language Stats"/></a><br>
 <a href="#"><img src="https://github.com/danilloism/danilloism/blob/main/devcard.svg" width="250" alt="Danillo Ilggner's daily.dev Card"/></a>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
