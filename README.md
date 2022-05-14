@@ -29,9 +29,4 @@ Hello there! My name is Danillo and currently I'm a Computer Science student at 
 <a href="#"><img src="https://github.com/danilloism/danilloism/blob/main/devcard.svg" width="250" alt="Danillo Ilggner's daily.dev Card"/></a>
 <!--START_SECTION:waka-->
 
-```text
-TypeScript   7 hrs 51 mins   ██████████████████▒░░░░░░   73.80 %
-Other        1 hr 28 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.82 %
-```
-
 <!--END_SECTION:waka-->
