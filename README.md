@@ -27,7 +27,7 @@ Hello there! My name is Danillo and currently I'm a Computer Science student at 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-94-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-98-blue)
 
 **🐱 My GitHub Data** 
 
@@ -70,17 +70,17 @@ Sunday       100 commits    ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-TypeScript               10 hrs 20 mins      █████████████████████████   99.91% 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.09%
+TypeScript               7 hrs 53 mins       █████████████████████████   99.92% 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.08%
 
 🔥 Editors: 
-VS Code                  10 hrs 21 mins      █████████████████████████   100.0%
+VS Code                  7 hrs 53 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-imobtelecom-api          10 hrs 21 mins      █████████████████████████   100.0%
+imobtelecom-api          7 hrs 53 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  10 hrs 21 mins      █████████████████████████   100.0%
+Windows                  7 hrs 53 mins       █████████████████████████   100.0%
 
 ```
 
@@ -101,5 +101,5 @@ JavaScript               3 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/danilloism/danilloism/main/charts/bar_graph.png) 
 
 
- Last Updated on 24/05/2022 18:54:12 UTC
+ Last Updated on 25/05/2022 18:52:28 UTC
 <!--END_SECTION:waka-->
