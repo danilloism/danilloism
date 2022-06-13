@@ -25,15 +25,15 @@ Hello there! My name is Danillo and currently I'm a Computer Science student at 
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=danilloism&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)](#)<br>
 --->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-342%20hrs%204%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 **🐱 My GitHub Data** 
 
 > 🏆 573 Contributions in the Year 2022
  > 
-> 📦 239.0 kB Used in GitHub's Storage 
+> 📦 238.5 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -70,22 +70,22 @@ Sunday       109 commits    ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-TypeScript               20 hrs 16 mins      ███████████████████████░░   94.86% 
-Bash                     34 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.69% 
-JSON                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.07% 
-Other                    10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.83% 
-YAML                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.51%
+TypeScript               21 hrs 44 mins      ███████████████████████░░   93.84% 
+Bash                     34 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.49% 
+JSON                     33 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.4% 
+Other                    10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.77% 
+YAML                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.47%
 
 🔥 Editors: 
-VS Code                  21 hrs 22 mins      █████████████████████████   100.0%
+VS Code                  23 hrs 9 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-laboratorio_ferreira_api 19 hrs 58 mins      ███████████████████████░░   93.46% 
-imobtelecom-api          1 hr 23 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.54% 
+laboratorio_ferreira_api 21 hrs 46 mins      ███████████████████████░░   93.97% 
+imobtelecom-api          1 hr 23 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.03% 
 danillo                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 💻 Operating System: 
-Windows                  21 hrs 22 mins      █████████████████████████   100.0%
+Windows                  23 hrs 9 mins       █████████████████████████   100.0%
 
 ```
 
@@ -106,5 +106,5 @@ JavaScript               3 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/danilloism/danilloism/main/charts/bar_graph.png) 
 
 
- Last Updated on 12/06/2022 18:46:27 UTC
+ Last Updated on 13/06/2022 18:51:47 UTC
 <!--END_SECTION:waka-->
