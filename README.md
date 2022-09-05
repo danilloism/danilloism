@@ -25,15 +25,15 @@ Hello there! My name is Danillo and currently I'm a Computer Science student at 
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=danilloism&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)](#)<br>
 --->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-632%20hrs%2051%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 860 Contributions in the Year 2022
+> 🏆 861 Contributions in the Year 2022
  > 
-> 📦 131.4 kB Used in GitHub's Storage 
+> 📦 131.2 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -41,6 +41,56 @@ Hello there! My name is Danillo and currently I'm a Computer Science student at 
  > 
 > 🔑 12 Private Repositories  
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    199 commits    ██████░░░░░░░░░░░░░░░░░░░   26.78% 
+🌆 Daytime    398 commits    █████████████░░░░░░░░░░░░   53.57% 
+🌃 Evening    122 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.42% 
+🌙 Night      24 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   3.23%
+
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday       117 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.75% 
+Tuesday      58 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.81% 
+Wednesday    147 commits    █████░░░░░░░░░░░░░░░░░░░░   19.78% 
+Thursday     130 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.5% 
+Friday       145 commits    █████░░░░░░░░░░░░░░░░░░░░   19.52% 
+Saturday     73 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.83% 
+Sunday       73 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.83%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: America/Sao_Paulo
+
+💬 Programming Languages: 
+Dart                     40 hrs 11 mins      ███████████████████████░░   91.94% 
+YAML                     1 hr 37 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   3.7% 
+Other                    1 hr 18 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   3.0% 
+Text                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.48% 
+Groovy                   9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.36%
+
+🔥 Editors: 
+Android Studio           29 hrs 24 mins      ████████████████░░░░░░░░░   67.3% 
+VS Code                  14 hrs 16 mins      ████████░░░░░░░░░░░░░░░░░   32.66% 
+WebStorm                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.05%
+
+🐱‍💻 Projects: 
+laboratorio_ferreira_mobi43 hrs 1 min        ████████████████████████░   98.43% 
+flutter                  39 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.5% 
+laboratorio_ferreira_api 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.07%
+
+💻 Operating System: 
+Linux                    43 hrs 42 mins      █████████████████████████   100.0%
+
+```
+
 **I Mostly Code in Dart** 
 
 ```text
@@ -58,5 +108,5 @@ JavaScript               4 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/danilloism/danilloism/main/charts/bar_graph.png) 
 
 
- Last Updated on 04/09/2022 18:51:19 UTC
+ Last Updated on 05/09/2022 18:55:43 UTC
 <!--END_SECTION:waka-->
