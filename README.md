@@ -25,7 +25,7 @@ Hello there! My name is Danillo and currently I'm a Computer Science student at 
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=danilloism&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)](#)<br>
 --->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-632%20hrs%2051%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-637%20hrs%2018%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -33,7 +33,7 @@ Hello there! My name is Danillo and currently I'm a Computer Science student at 
 
 > 🏆 861 Contributions in the Year 2022
  > 
-> 📦 131.2 kB Used in GitHub's Storage 
+> 📦 131.3 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -70,24 +70,25 @@ Sunday       73 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Dart                     40 hrs 11 mins      ███████████████████████░░   91.94% 
-YAML                     1 hr 37 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   3.7% 
-Other                    1 hr 18 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   3.0% 
-Text                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.48% 
-Groovy                   9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.36%
+Dart                     35 hrs 18 mins      ███████████████████████░░   91.65% 
+Other                    1 hr 22 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   3.57% 
+YAML                     1 hr 7 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   2.91% 
+Git Config               10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.47% 
+Groovy                   9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.41%
 
 🔥 Editors: 
-Android Studio           29 hrs 24 mins      ████████████████░░░░░░░░░   67.3% 
-VS Code                  14 hrs 16 mins      ████████░░░░░░░░░░░░░░░░░   32.66% 
+Android Studio           19 hrs 32 mins      ████████████░░░░░░░░░░░░░   50.72% 
+VS Code                  18 hrs 58 mins      ████████████░░░░░░░░░░░░░   49.23% 
 WebStorm                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.05%
 
 🐱‍💻 Projects: 
-laboratorio_ferreira_mobi43 hrs 1 min        ████████████████████████░   98.43% 
-flutter                  39 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.5% 
-laboratorio_ferreira_api 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.07%
+laboratorio_ferreira_mobi37 hrs 13 mins      ████████████████████████░   96.62% 
+flutter_apprentice       48 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.09% 
+flutter                  27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.21% 
+laboratorio_ferreira_api 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.08%
 
 💻 Operating System: 
-Linux                    43 hrs 42 mins      █████████████████████████   100.0%
+Linux                    38 hrs 32 mins      █████████████████████████   100.0%
 
 ```
 
@@ -108,5 +109,5 @@ JavaScript               4 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/danilloism/danilloism/main/charts/bar_graph.png) 
 
 
- Last Updated on 05/09/2022 18:55:43 UTC
+ Last Updated on 06/09/2022 18:53:58 UTC
 <!--END_SECTION:waka-->
