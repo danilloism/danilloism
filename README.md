@@ -1,3 +1,13 @@
+## 📃 Table of contents
+
+|Sections|
+|-|
+|[About me](#about-me)|
+|[Tech Stack](#tech-stack)|
+|[Dev stats](#dev-stats)|
+
+<a name="about-me"/>
+
 ## 🌈 About me:
 Hello there! My name is Danillo and currently I'm a Computer Science student at Pontifical Catholic University of Goiás and a back-end development intern at Grupo AHAV. Pronouns: He/Him.
 
@@ -6,7 +16,7 @@ Hello there! My name is Danillo and currently I'm a Computer Science student at 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/danilloism)
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/danilloism) 
 
-
+<a name="tech-stack"/>
 
 ## 💻 Tech stack:
 > Click the tech shield to go to related projects (if exists)
@@ -17,6 +27,8 @@ Hello there! My name is Danillo and currently I'm a Computer Science student at 
 
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 --->
+
+<a name="dev-stats"/>
 
 ## 📊 Dev stats:
 <!---
