@@ -1,6 +1,6 @@
 # Learning path
 
-### Rocketseat (Ignite, with Node)
+### Rocketseat (Ignite, Node path)
 
 [Desafio: Conceitos do Node.js](https://github.com/danilloism/desafio01-ignite-nodejs)<br>
 [Desafio: Trabalhando com Middlewares](https://github.com/danilloism/desafio02-ignite-nodejs)<br>
