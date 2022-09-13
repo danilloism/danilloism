@@ -6,6 +6,7 @@
 [Desafio: Trabalhando com Middlewares](https://github.com/danilloism/desafio02-ignite-nodejs)<br>
 [Desafio: Corrigindo o código](https://github.com/danilloism/desafio03-ignite-nodejs)<br>
 [Desafio: Introdução ao SOLID](https://github.com/danilloism/desafio04-ignite-nodejs)<br>
+[Desafio: Database Queries](https://github.com/danilloism/desafio06-ignite-nodejs)<br>
 
 
 # Personal projects
