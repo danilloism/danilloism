@@ -37,7 +37,7 @@ Hello there! My name is Danillo and currently I'm a Computer Science student at 
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=danilloism&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)](#)<br>
 --->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-705%20hrs%2043%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-706%20hrs%2028%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -82,24 +82,22 @@ Sunday       76 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Dart                     13 hrs 31 mins      ███████████████████████░░   92.15% 
-TypeScript               1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   7.3% 
-YAML                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.55% 
+Dart                     6 hrs 59 mins       ██████████████████████░░░   89.86% 
+TypeScript               45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.66% 
+YAML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.46% 
 Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01%
 
 🔥 Editors: 
-Android Studio           13 hrs 14 mins      ██████████████████████░░░   90.2% 
-VS Code                  1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   7.91% 
-WebStorm                 16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.89%
+Android Studio           6 hrs 40 mins       █████████████████████░░░░   85.76% 
+VS Code                  1 hr 6 mins         ███░░░░░░░░░░░░░░░░░░░░░░   14.24%
 
 🐱‍💻 Projects: 
-laboratorio_ferreira_mobi13 hrs 19 mins      ██████████████████████░░░   90.77% 
-imobtelecom_hunter_api   44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.09% 
-laboratorio_ferreira_api 19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.21% 
-flutter                  17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.93%
+laboratorio_ferreira_mobi6 hrs 56 mins       ██████████████████████░░░   89.2% 
+imobtelecom_hunter_api   45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.66% 
+flutter                  5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.14%
 
 💻 Operating System: 
-Linux                    14 hrs 40 mins      █████████████████████████   100.0%
+Linux                    7 hrs 47 mins       █████████████████████████   100.0%
 
 ```
 
@@ -120,5 +118,5 @@ JavaScript               4 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/danilloism/danilloism/main/charts/bar_graph.png) 
 
 
- Last Updated on 04/10/2022 19:04:58 UTC
+ Last Updated on 05/10/2022 19:06:58 UTC
 <!--END_SECTION:waka-->
