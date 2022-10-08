@@ -37,7 +37,7 @@ Hello there! My name is Danillo and currently I'm a Computer Science student at 
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=danilloism&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)](#)<br>
 --->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-706%20hrs%2028%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-706%20hrs%2033%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -82,22 +82,22 @@ Sunday       76 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-TypeScript               45 mins             ██████████████████████░░░   89.37% 
-JSON                     3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   7.8% 
-JavaScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   2.2% 
-Dart                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.63%
+TypeScript               45 mins             ██████████████████████░░░   89.58% 
+JSON                     3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   7.82% 
+JavaScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   2.21% 
+Dart                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.39%
 
 🔥 Editors: 
 VS Code                  50 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-imobtelecom_hunter_api   45 mins             ██████████████████████░░░   89.37% 
-round-web                5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   10.01% 
-laboratorio_ferreira_mobi0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.63%
+imobtelecom_hunter_api   45 mins             ██████████████████████░░░   89.58% 
+round-web                5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   10.03% 
+laboratorio_ferreira_mobi0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.39%
 
 💻 Operating System: 
-Linux                    45 mins             ██████████████████████░░░   89.99% 
-Windows                  5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   10.01%
+Linux                    45 mins             ██████████████████████░░░   89.97% 
+Windows                  5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   10.03%
 
 ```
 
@@ -118,5 +118,5 @@ JavaScript               4 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/danilloism/danilloism/main/charts/bar_graph.png) 
 
 
- Last Updated on 07/10/2022 19:04:10 UTC
+ Last Updated on 08/10/2022 18:57:10 UTC
 <!--END_SECTION:waka-->
