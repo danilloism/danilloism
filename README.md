@@ -9,7 +9,7 @@
 <a name="about-me"/>
 
 ## 🌈 About me:
-Hello there! My name is Danillo and currently I'm a Computer Science student at Pontifical Catholic University of Goiás and a back-end development intern at Grupo AHAV. Pronouns: He/Him.
+Hello there! My name is Danillo and currently I'm a Computer Science student at Pontifical Catholic University of Goiás. Pronouns: He/Him.
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/danilloilggner)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/danilloism)
