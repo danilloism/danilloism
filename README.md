@@ -37,7 +37,7 @@ Hello there! My name is Danillo and currently I'm a Computer Science student at 
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=danilloism&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)](#)<br>
 --->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C142%20hrs%2038%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C142%20hrs%2048%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -80,21 +80,22 @@ Sunday                   314 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Java                     33 mins             ██████████████████░░░░░░░   72.76 % 
-JSON                     7 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.12 % 
-SQL                      5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.83 % 
-Properties               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+SQL                      54 mins             █████████████░░░░░░░░░░░░   50.44 % 
+Java                     46 mins             ███████████░░░░░░░░░░░░░░   42.77 % 
+JSON                     7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.48 % 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+Properties               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 
 🔥 Editors: 
-VS Code                  46 mins             █████████████████████████   100.00 % 
+VS Code                  1 hr 48 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-financeiro-backend-boleto31 mins             █████████████████░░░░░░░░   67.75 % 
-corporativo-backend-apoli7 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.13 % 
-nfa-to-dfa-master        7 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.12 % 
+corporativo-backend-apoli1 hr 9 mins         ████████████████░░░░░░░░░   64.48 % 
+financeiro-backend-boleto31 mins             ███████░░░░░░░░░░░░░░░░░░   29.04 % 
+nfa-to-dfa-master        7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.48 % 
 
 💻 Operating System: 
-Windows                  46 mins             █████████████████████████   100.00 % 
+Windows                  1 hr 48 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -114,5 +115,5 @@ C#                       3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/danilloism/danilloism/main/assets/bar_graph.png)
 
 
- Last Updated on 19/04/2023 18:36:39 UTC
+ Last Updated on 20/04/2023 18:36:53 UTC
 <!--END_SECTION:waka-->
