@@ -37,7 +37,7 @@ Hello there! My name is Danillo and currently I'm a Computer Science student at 
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=danilloism&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)](#)<br>
 --->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C206%20hrs%2029%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C207%20hrs%2014%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -80,22 +80,22 @@ Sunday                   332 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-TypeScript               28 mins             ██████████░░░░░░░░░░░░░░░   41.69 % 
-Markdown                 14 mins             █████░░░░░░░░░░░░░░░░░░░░   21.78 % 
-Java                     14 mins             █████░░░░░░░░░░░░░░░░░░░░   20.51 % 
-JSON                     10 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.94 % 
+TypeScript               28 mins             ██████████░░░░░░░░░░░░░░░   42.00 % 
+Markdown                 14 mins             █████░░░░░░░░░░░░░░░░░░░░   21.20 % 
+Java                     14 mins             █████░░░░░░░░░░░░░░░░░░░░   20.66 % 
+JSON                     10 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.06 % 
 HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 
 🔥 Editors: 
-VS Code                  1 hr 8 mins         █████████████████████████   100.00 % 
+VS Code                  1 hr 7 mins         █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-corporativo-frontend-cart32 mins             ████████████░░░░░░░░░░░░░   47.17 % 
-auto-frontend-cotador    21 mins             ████████░░░░░░░░░░░░░░░░░   31.59 % 
-corporativo-backend-carta14 mins             █████░░░░░░░░░░░░░░░░░░░░   21.24 % 
+corporativo-frontend-cart32 mins             ████████████░░░░░░░░░░░░░   47.52 % 
+auto-frontend-cotador    21 mins             ████████░░░░░░░░░░░░░░░░░   31.82 % 
+corporativo-backend-carta14 mins             █████░░░░░░░░░░░░░░░░░░░░   20.66 % 
 
 💻 Operating System: 
-Windows                  1 hr 8 mins         █████████████████████████   100.00 % 
+Windows                  1 hr 7 mins         █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -115,5 +115,5 @@ C#                       3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/danilloism/danilloism/main/assets/bar_graph.png)
 
 
- Last Updated on 13/06/2023 18:36:47 UTC
+ Last Updated on 14/06/2023 18:36:27 UTC
 <!--END_SECTION:waka-->
