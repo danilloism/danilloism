@@ -37,7 +37,7 @@ Hello there! My name is Danillo and currently I'm a Computer Science student at 
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=danilloism&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)](#)<br>
 --->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C207%20hrs%2014%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C208%20hrs%204%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -80,20 +80,20 @@ Sunday                   332 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Java                     25 mins             █████████████░░░░░░░░░░░░   50.75 % 
-XML                      22 mins             ███████████░░░░░░░░░░░░░░   44.22 % 
-Properties               2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
+Java                     41 mins             ████████████████░░░░░░░░░   62.87 % 
+XML                      22 mins             ████████░░░░░░░░░░░░░░░░░   33.90 % 
+Properties               2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
 
 🔥 Editors: 
-VS Code                  50 mins             █████████████████████████   100.00 % 
+VS Code                  1 hr 5 mins         █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-financeiro-backend-boleto40 mins             ████████████████████░░░░░   79.72 % 
-corporativo-backend-apoli7 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.99 % 
-corporativo-backend-carta2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.28 % 
+financeiro-backend-boleto56 mins             █████████████████████░░░░   85.08 % 
+corporativo-backend-apoli7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.49 % 
+corporativo-backend-carta2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 % 
 
 💻 Operating System: 
-Windows                  50 mins             █████████████████████████   100.00 % 
+Windows                  1 hr 5 mins         █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -113,5 +113,5 @@ C#                       3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/danilloism/danilloism/main/assets/bar_graph.png)
 
 
- Last Updated on 22/06/2023 18:36:17 UTC
+ Last Updated on 23/06/2023 18:39:57 UTC
 <!--END_SECTION:waka-->
