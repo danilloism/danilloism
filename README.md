@@ -37,7 +37,7 @@ Hello there! My name is Danillo and currently I'm a Computer Science student at 
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=danilloism&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)](#)<br>
 --->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C220%20hrs%2046%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C220%20hrs%2047%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -80,21 +80,18 @@ Sunday                   332 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Java                     1 hr 37 mins        ██████████████████████░░░   88.96 % 
-XML                      7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.63 % 
-Properties               4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
+Java                     18 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  1 hr 49 mins        █████████████████████████   100.00 % 
+VS Code                  18 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-financeiro-backend-boleto48 mins             ███████████░░░░░░░░░░░░░░   44.13 % 
-corporativo-backend-carta25 mins             ██████░░░░░░░░░░░░░░░░░░░   22.97 % 
-financeiro-backend-cobran21 mins             █████░░░░░░░░░░░░░░░░░░░░   19.33 % 
-corporativo-backend-apoli14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.57 % 
+corporativo-backend-apoli14 mins             ████████████████████░░░░░   79.00 % 
+financeiro-backend-boleto3 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.26 % 
+financeiro-backend-cobran0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.74 % 
 
 💻 Operating System: 
-Windows                  1 hr 49 mins        █████████████████████████   100.00 % 
+Windows                  18 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -114,5 +111,5 @@ C#                       3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/danilloism/danilloism/main/assets/bar_graph.png)
 
 
- Last Updated on 14/07/2023 18:39:51 UTC
+ Last Updated on 15/07/2023 18:39:08 UTC
 <!--END_SECTION:waka-->
