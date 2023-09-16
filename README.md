@@ -19,14 +19,21 @@ Hello there! My name is Danillo and currently I'm a Computer Science student at 
 <a name="tech-stack"/>
 
 ## 💻 Tech stack:
-> Click the tech shield to go to related projects (if exists)
+> Click the tech shield to go to related projects (if it's public)
 
-[![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)](https://github.com/danilloism/danilloism/blob/main/Flutter.md) [![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)](https://github.com/danilloism/danilloism/blob/main/Flutter.md) [![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/danilloism/danilloism/blob/main/Typescript.md) [![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](https://github.com/danilloism/danilloism/blob/main/Node.js.md) [![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)](https://github.com/danilloism/danilloism/blob/main/Nest.js.md) [![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://github.com/danilloism/danilloism/blob/main/React.md) [![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)](#tech-stack) [![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)](#tech-stack) [![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/danilloism/danilloism/blob/main/C%2B%2B.md) [![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)](https://github.com/danilloism/danilloism/blob/main/C%2B%2B.md) [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/danilloism/danilloism/blob/main/Html.md) [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/danilloism/danilloism/blob/main/Css.md)
-<!---
-- 🌱 Currently learning:
-
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
---->
+[![Android](https://img.shields.io/badge/android-000?style=for-the-badge&logo=android)](#tech-stack)
+[![Kotlin](https://img.shields.io/badge/kotlin-000?style=for-the-badge&logo=kotlin)](#tech-stack)
+[![Dart](https://img.shields.io/badge/dart-000?style=for-the-badge&logo=dart)](https://github.com/danilloism/danilloism/blob/main/Flutter.md)
+[![Flutter](https://img.shields.io/badge/Flutter-000?style=for-the-badge&logo=Flutter)](https://github.com/danilloism/danilloism/blob/main/Flutter.md)
+[![TypeScript](https://img.shields.io/badge/typescript-000?style=for-the-badge&logo=typescript)](https://github.com/danilloism/danilloism/blob/main/Typescript.md)
+[![NodeJS](https://img.shields.io/badge/node.js-000?style=for-the-badge&logo=node.js)](https://github.com/danilloism/danilloism/blob/main/Node.js.md)
+[![NestJS](https://img.shields.io/badge/nestjs-000?style=for-the-badge&logo=nestjs)](https://github.com/danilloism/danilloism/blob/main/Nest.js.md)
+[![React](https://img.shields.io/badge/react-000?style=for-the-badge&logo=react)](https://github.com/danilloism/danilloism/blob/main/React.md)
+[![C#](https://img.shields.io/badge/c%23-000.svg?style=for-the-badge&logo=c-sharp)](#tech-stack)
+[![.Net](https://img.shields.io/badge/.NET-000?style=for-the-badge&logo=.net)](#tech-stack)
+[![C++](https://img.shields.io/badge/c++-000?style=for-the-badge&logo=c%2B%2B)](https://github.com/danilloism/danilloism/blob/main/C%2B%2B.md)
+[![HTML5](https://img.shields.io/badge/html5-000?style=for-the-badge&logo=html5)](https://github.com/danilloism/danilloism/blob/main/Html.md)
+[![CSS3](https://img.shields.io/badge/css3-000?style=for-the-badge&logo=css3)](https://github.com/danilloism/danilloism/blob/main/Css.md)
 
 <a name="dev-stats"/>
 
