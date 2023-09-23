@@ -44,7 +44,7 @@ Hello there! My name is Danillo and currently I'm a Computer Science student at 
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=danilloism&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)](#)<br>
 --->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C243%20hrs%2034%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C243%20hrs%2059%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
@@ -52,11 +52,11 @@ Hello there! My name is Danillo and currently I'm a Computer Science student at 
 
 > 📦 141.7 kB Used in GitHub's Storage 
  > 
-> 🏆 125 Contributions in the Year 2023
+> 🏆 126 Contributions in the Year 2023
  > 
 > 💼 Opted to Hire
  > 
-> 📜 44 Public Repositories 
+> 📜 45 Public Repositories 
  > 
 > 🔑 15 Private Repositories 
  > 
@@ -87,25 +87,25 @@ Sunday                   332 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-TypeScript               5 hrs 5 mins        ████████████░░░░░░░░░░░░░   47.98 % 
-Java                     3 hrs 48 mins       █████████░░░░░░░░░░░░░░░░   35.87 % 
-SQL                      41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
-Markdown                 37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
-JSON                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
+Java                     3 hrs 48 mins       █████████████████░░░░░░░░   68.81 % 
+SQL                      41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.51 % 
+Markdown                 37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.45 % 
+TypeScript               14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 % 
+Ezhil                    6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
 
 🔥 Editors: 
-VS Code                  10 hrs 35 mins      █████████████████████████   100.00 % 
+VS Code                  5 hrs 31 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-elysia-playground        5 hrs 19 mins       █████████████░░░░░░░░░░░░   50.21 % 
-prjped                   4 hrs 20 mins       ██████████░░░░░░░░░░░░░░░   41.03 % 
-dio-lab-open-source      37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
-Unknown Project          17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
-AppServer                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+prjped                   4 hrs 20 mins       ████████████████████░░░░░   78.70 % 
+dio-lab-open-source      37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.45 % 
+Unknown Project          17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.30 % 
+elysia-playground        14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
+AppServer                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 💻 Operating System: 
-Linux                    6 hrs 6 mins        ██████████████░░░░░░░░░░░   57.57 % 
-Windows                  4 hrs 29 mins       ███████████░░░░░░░░░░░░░░   42.43 % 
+Windows                  4 hrs 29 mins       ████████████████████░░░░░   81.38 % 
+Linux                    1 hr 1 min          █████░░░░░░░░░░░░░░░░░░░░   18.62 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -125,5 +125,5 @@ C#                       3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/danilloism/danilloism/main/assets/bar_graph.png)
 
 
- Last Updated on 22/09/2023 18:35:28 UTC
+ Last Updated on 23/09/2023 18:34:58 UTC
 <!--END_SECTION:waka-->
