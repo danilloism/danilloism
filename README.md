@@ -52,6 +52,8 @@ Hello there! My name is Danillo and currently I'm a Computer Science student at 
 
 > 📦 142.0 kB Used in GitHub's Storage 
  > 
+> 🏆 135 Contributions in the Year 2023
+ > 
 > 💼 Opted to Hire
  > 
 > 📜 47 Public Repositories 
@@ -85,16 +87,16 @@ Sunday                   337 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Java                     0 secs              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  0 secs              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+plccotaweb               0 secs              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  0 secs              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -114,5 +116,5 @@ Kotlin                   2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/danilloism/danilloism/main/assets/bar_graph.png)
 
 
- Last Updated on 18/10/2023 18:37:12 UTC
+ Last Updated on 19/10/2023 18:36:35 UTC
 <!--END_SECTION:waka-->
