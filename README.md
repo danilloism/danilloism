@@ -87,18 +87,16 @@ Sunday                   337 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-JavaScript               39 mins             ██████████████████████░░░   87.57 % 
-HTML                     5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  45 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-guinu                    45 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    45 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Dart** 
@@ -118,5 +116,5 @@ Kotlin                   2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/danilloism/danilloism/main/assets/bar_graph.png)
 
 
- Last Updated on 16/11/2023 18:37:04 UTC
+ Last Updated on 17/11/2023 18:37:18 UTC
 <!--END_SECTION:waka-->
