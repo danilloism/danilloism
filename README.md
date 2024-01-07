@@ -52,8 +52,6 @@ Hello there! My name is Danillo and currently I'm a Computer Science student at 
 
 > 📦 142.1 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2024
- > 
 > 💼 Opted to Hire
  > 
 > 📜 48 Public Repositories 
@@ -116,5 +114,5 @@ Kotlin                   2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/danilloism/danilloism/main/assets/bar_graph.png)
 
 
- Last Updated on 06/01/2024 18:34:54 UTC
+ Last Updated on 07/01/2024 18:35:04 UTC
 <!--END_SECTION:waka-->
