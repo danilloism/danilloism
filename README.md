@@ -56,9 +56,9 @@ Hello there! My name is Danillo and currently I'm a Computer Science student at 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 48 Public Repositories 
+> 📜 47 Public Repositories 
  > 
-> 🔑 15 Private Repositories 
+> 🔑 16 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
@@ -116,5 +116,5 @@ Kotlin                   2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/danilloism/danilloism/main/assets/bar_graph.png)
 
 
- Last Updated on 10/01/2024 18:37:01 UTC
+ Last Updated on 11/01/2024 18:36:16 UTC
 <!--END_SECTION:waka-->
