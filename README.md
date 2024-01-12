@@ -87,16 +87,20 @@ Sunday                   337 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               4 hrs 44 mins       ███████████████░░░░░░░░░░   60.59 % 
+Prisma                   56 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.11 % 
+JSON                     36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 % 
+SQL                      35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
+YAML                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.78 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  7 hrs 50 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+dentflux_api             7 hrs 50 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    7 hrs 50 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -116,5 +120,5 @@ Kotlin                   2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/danilloism/danilloism/main/assets/bar_graph.png)
 
 
- Last Updated on 11/01/2024 18:36:16 UTC
+ Last Updated on 12/01/2024 18:36:29 UTC
 <!--END_SECTION:waka-->
