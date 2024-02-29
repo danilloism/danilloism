@@ -44,13 +44,15 @@ Hello there! My name is Danillo and currently I'm a Computer Science student at 
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=danilloism&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)](#)<br>
 --->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C387%20hrs%2028%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C389%20hrs%2045%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 142.4 kB Used in GitHub's Storage 
+ > 
+> 🏆 0 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -85,21 +87,21 @@ Sunday                   337 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-JavaScript               8 hrs 17 mins       ██████████████░░░░░░░░░░░   57.49 % 
-XML                      4 hrs 19 mins       ████████░░░░░░░░░░░░░░░░░   30.01 % 
-Java Properties          1 hr 33 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
-JSON                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+JavaScript               7 hrs 55 mins       ████████████████████░░░░░   81.70 % 
+XML                      1 hr 31 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.65 % 
+JSON                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
+Java Properties          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-VS Code                  14 hrs 17 mins      █████████████████████████   99.12 % 
-WebStorm                 7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
+VS Code                  9 hrs 34 mins       █████████████████████████   98.70 % 
+WebStorm                 7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
 
 🐱‍💻 Projects: 
-sipef.audit.webapp       14 hrs 25 mins      █████████████████████████   100.00 % 
+sipef.audit.webapp       9 hrs 41 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  14 hrs 25 mins      █████████████████████████   100.00 % 
+Windows                  9 hrs 41 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -119,5 +121,5 @@ Kotlin                   2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/danilloism/danilloism/main/assets/bar_graph.png)
 
 
- Last Updated on 28/02/2024 18:35:02 UTC
+ Last Updated on 29/02/2024 18:34:45 UTC
 <!--END_SECTION:waka-->
