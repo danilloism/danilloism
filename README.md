@@ -52,6 +52,8 @@ Hello there! My name is Danillo and currently I'm a Computer Science student at 
 
 > 📦 142.4 kB Used in GitHub's Storage 
  > 
+> 🏆 0 Contributions in the Year 2024
+ > 
 > 💼 Opted to Hire
  > 
 > 📜 47 Public Repositories 
@@ -85,18 +87,17 @@ Sunday                   337 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-JavaScript               2 hrs 3 mins        ███████████████████████░░   90.54 % 
-JSON                     12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.23 % 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+SQL                      7 mins              ██████████████████████░░░   88.88 % 
+Other                    0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   11.12 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 16 mins       █████████████████████████   100.00 % 
+VS Code                  8 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-sipef.audit.webapp       2 hrs 16 mins       █████████████████████████   100.00 % 
+Unknown Project          8 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  2 hrs 16 mins       █████████████████████████   100.00 % 
+Windows                  8 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -116,5 +117,5 @@ Kotlin                   2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/danilloism/danilloism/main/assets/bar_graph.png)
 
 
- Last Updated on 05/03/2024 18:34:59 UTC
+ Last Updated on 06/03/2024 18:35:04 UTC
 <!--END_SECTION:waka-->
