@@ -44,13 +44,13 @@ Hello there! My name is Danillo and currently I'm a Computer Science student at 
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=danilloism&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)](#)<br>
 --->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C392%20hrs%2047%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 142.5 kB Used in GitHub's Storage 
+ > 
+> 🏆 0 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -85,16 +85,16 @@ Sunday                   337 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Other                    22 mins             █████████████████████████   100.00 % 
+Other                    11 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  22 mins             █████████████████████████   100.00 % 
+VS Code                  11 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Unknown Project          22 mins             █████████████████████████   100.00 % 
+Unknown Project          11 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  22 mins             █████████████████████████   100.00 % 
+Windows                  11 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -114,5 +114,5 @@ Kotlin                   2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/danilloism/danilloism/main/assets/bar_graph.png)
 
 
- Last Updated on 14/06/2024 18:39:14 UTC
+ Last Updated on 15/06/2024 18:37:25 UTC
 <!--END_SECTION:waka-->
