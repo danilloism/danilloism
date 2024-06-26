@@ -44,7 +44,7 @@ Hello there! My name is Danillo and currently I'm a Computer Science student at 
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=danilloism&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)](#)<br>
 --->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C392%20hrs%2047%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C393%20hrs%202%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -85,16 +85,20 @@ Sunday                   337 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Other                    15 mins             █████████████████████████   100.00 % 
+Go                       3 hrs 13 mins       ███████████████████████░░   92.36 % 
+Other                    15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 % 
+go.mod                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
 
 🔥 Editors: 
-VS Code                  15 mins             █████████████████████████   100.00 % 
+GoLand                   3 hrs 14 mins       ███████████████████████░░   92.64 % 
+VS Code                  15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 % 
 
 🐱‍💻 Projects: 
-Unknown Project          15 mins             █████████████████████████   100.00 % 
+awesomeProject           3 hrs 14 mins       ███████████████████████░░   92.64 % 
+Unknown Project          15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 % 
 
 💻 Operating System: 
-Windows                  15 mins             █████████████████████████   100.00 % 
+Windows                  3 hrs 29 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -114,5 +118,5 @@ Kotlin                   2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/danilloism/danilloism/main/assets/bar_graph.png)
 
 
- Last Updated on 25/06/2024 18:39:24 UTC
+ Last Updated on 26/06/2024 18:39:19 UTC
 <!--END_SECTION:waka-->
