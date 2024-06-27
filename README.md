@@ -44,7 +44,7 @@ Hello there! My name is Danillo and currently I'm a Computer Science student at 
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=danilloism&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)](#)<br>
 --->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C393%20hrs%202%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C396%20hrs%2017%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -85,20 +85,20 @@ Sunday                   337 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Go                       3 hrs 13 mins       ███████████████████████░░   92.36 % 
-Other                    15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 % 
-go.mod                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
+Go                       4 hrs 40 mins       ████████████████░░░░░░░░░   63.54 % 
+Other                    2 hrs 39 mins       █████████░░░░░░░░░░░░░░░░   36.29 % 
+go.mod                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
 
 🔥 Editors: 
-GoLand                   3 hrs 14 mins       ███████████████████████░░   92.64 % 
-VS Code                  15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 % 
+GoLand                   4 hrs 40 mins       ████████████████░░░░░░░░░   63.71 % 
+VS Code                  2 hrs 39 mins       █████████░░░░░░░░░░░░░░░░   36.29 % 
 
 🐱‍💻 Projects: 
-awesomeProject           3 hrs 14 mins       ███████████████████████░░   92.64 % 
-Unknown Project          15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 % 
+awesomeProject           4 hrs 40 mins       ████████████████░░░░░░░░░   63.71 % 
+Unknown Project          2 hrs 39 mins       █████████░░░░░░░░░░░░░░░░   36.29 % 
 
 💻 Operating System: 
-Windows                  3 hrs 29 mins       █████████████████████████   100.00 % 
+Windows                  7 hrs 20 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -118,5 +118,5 @@ Kotlin                   2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/danilloism/danilloism/main/assets/bar_graph.png)
 
 
- Last Updated on 26/06/2024 18:39:19 UTC
+ Last Updated on 27/06/2024 18:37:32 UTC
 <!--END_SECTION:waka-->
