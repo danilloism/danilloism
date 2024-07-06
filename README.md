@@ -44,13 +44,13 @@ Hello there! My name is Danillo and currently I'm a Computer Science student at 
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=danilloism&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)](#)<br>
 --->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C405%20hrs%2029%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C406%20hrs%2010%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 142.4 kB Used in GitHub's Storage 
+> 📦 142.5 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -85,20 +85,17 @@ Sunday                   337 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Other                    41 mins             █████████████████████░░░░   83.69 % 
-Go                       7 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.21 % 
-go.mod                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+Other                    53 mins             ████████████████████████░   96.41 % 
+JSON                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
 
 🔥 Editors: 
-VS Code                  41 mins             █████████████████████░░░░   83.69 % 
-GoLand                   8 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.31 % 
+VS Code                  55 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Unknown Project          41 mins             █████████████████████░░░░   83.69 % 
-awesomeProject           8 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.31 % 
+Unknown Project          55 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  49 mins             █████████████████████████   100.00 % 
+Windows                  55 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -118,5 +115,5 @@ Kotlin                   2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/danilloism/danilloism/main/assets/bar_graph.png)
 
 
- Last Updated on 05/07/2024 18:38:57 UTC
+ Last Updated on 06/07/2024 18:36:46 UTC
 <!--END_SECTION:waka-->
