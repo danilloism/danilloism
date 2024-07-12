@@ -44,7 +44,7 @@ Hello there! My name is Danillo and currently I'm a Computer Science student at 
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=danilloism&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)](#)<br>
 --->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C406%20hrs%2059%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C407%20hrs%2050%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -85,18 +85,21 @@ Sunday                   337 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Other                    2 hrs 12 mins       ████████████████████████░   94.33 % 
-SQL                      5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
-JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
+JavaScript               2 hrs 57 mins       █████████████░░░░░░░░░░░░   52.16 % 
+Other                    1 hr 31 mins        ███████░░░░░░░░░░░░░░░░░░   26.85 % 
+HTML                     1 hr 3 mins         █████░░░░░░░░░░░░░░░░░░░░   18.64 % 
+SQL                      6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
+JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 20 mins       █████████████████████████   100.00 % 
+VS Code                  5 hrs 40 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Unknown Project          2 hrs 20 mins       █████████████████████████   100.00 % 
+auuu                     3 hrs 58 mins       █████████████████░░░░░░░░   69.93 % 
+Unknown Project          1 hr 42 mins        ████████░░░░░░░░░░░░░░░░░   30.07 % 
 
 💻 Operating System: 
-Windows                  2 hrs 20 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 40 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -116,5 +119,5 @@ Kotlin                   2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/danilloism/danilloism/main/assets/bar_graph.png)
 
 
- Last Updated on 11/07/2024 18:39:03 UTC
+ Last Updated on 12/07/2024 18:40:52 UTC
 <!--END_SECTION:waka-->
