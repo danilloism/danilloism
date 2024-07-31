@@ -52,8 +52,6 @@ Hello there! My name is Danillo and currently I'm a Computer Science student at 
 
 > 📦 142.5 kB Used in GitHub's Storage 
  > 
-> 🏆 2 Contributions in the Year 2024
- > 
 > 💼 Opted to Hire
  > 
 > 📜 48 Public Repositories 
@@ -87,24 +85,16 @@ Sunday                   337 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Go                       1 hr 25 mins        █████████████░░░░░░░░░░░░   53.01 % 
-SQL                      28 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.40 % 
-YAML                     22 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.09 % 
-Other                    7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.91 % 
-go.mod                   4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 35 mins        ███████████████░░░░░░░░░░   58.85 % 
-GoLand                   1 hr 6 mins         ██████████░░░░░░░░░░░░░░░   41.15 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-journey                  2 hrs 14 mins       █████████████████████░░░░   82.98 % 
-dio-go                   19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.13 % 
-awesomeProject           7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  2 hrs 42 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Dart** 
@@ -124,5 +114,5 @@ Go                       1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/danilloism/danilloism/main/assets/bar_graph.png)
 
 
- Last Updated on 30/07/2024 18:39:33 UTC
+ Last Updated on 31/07/2024 18:39:50 UTC
 <!--END_SECTION:waka-->
