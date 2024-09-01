@@ -44,7 +44,7 @@ Hello there! My name is Danillo and currently I'm a Computer Science student at 
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=danilloism&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)](#)<br>
 --->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C425%20hrs%2045%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C428%20hrs%2029%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -63,19 +63,19 @@ Hello there! My name is Danillo and currently I'm a Computer Science student at 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                513 commits         █████░░░░░░░░░░░░░░░░░░░░   21.73 % 
-🌆 Daytime                1389 commits        ███████████████░░░░░░░░░░   58.83 % 
-🌃 Evening                353 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.95 % 
+🌞 Morning                514 commits         █████░░░░░░░░░░░░░░░░░░░░   21.76 % 
+🌆 Daytime                1389 commits        ███████████████░░░░░░░░░░   58.81 % 
+🌃 Evening                353 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.94 % 
 🌙 Night                  106 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   378 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.01 % 
-Tuesday                  361 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.29 % 
-Wednesday                355 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.04 % 
-Thursday                 399 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.90 % 
-Friday                   340 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.40 % 
+Monday                   378 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
+Tuesday                  361 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.28 % 
+Wednesday                355 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.03 % 
+Thursday                 399 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.89 % 
+Friday                   341 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.44 % 
 Saturday                 191 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 % 
 Sunday                   337 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.27 % 
 ```
@@ -122,5 +122,5 @@ Go                       1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/danilloism/danilloism/main/assets/bar_graph.png)
 
 
- Last Updated on 31/08/2024 18:38:59 UTC
+ Last Updated on 01/09/2024 18:40:21 UTC
 <!--END_SECTION:waka-->
