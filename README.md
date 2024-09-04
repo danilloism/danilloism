@@ -44,13 +44,15 @@ Hello there! My name is Danillo and currently I'm a Computer Science student at 
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=danilloism&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)](#)<br>
 --->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C428%20hrs%2029%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C430%20hrs%202%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 142.5 kB Used in GitHub's Storage 
+ > 
+> 🏆 2 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -85,22 +87,22 @@ Sunday                   337 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-HTML                     2 hrs 45 mins       █████████████░░░░░░░░░░░░   50.38 % 
-JavaScript               1 hr 29 mins        ███████░░░░░░░░░░░░░░░░░░   27.25 % 
-Other                    1 hr 11 mins        █████░░░░░░░░░░░░░░░░░░░░   21.75 % 
-Python                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+JavaScript               4 hrs 48 mins       █████████████░░░░░░░░░░░░   51.04 % 
+HTML                     3 hrs 59 mins       ███████████░░░░░░░░░░░░░░   42.45 % 
+Other                    26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+Markdown                 7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
+JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 29 mins       █████████████████████████   100.00 % 
+VS Code                  9 hrs 24 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-gerador-pdf              3 hrs 34 mins       ████████████████░░░░░░░░░   65.09 % 
-Unknown Project          1 hr 14 mins        ██████░░░░░░░░░░░░░░░░░░░   22.50 % 
-jsPdfNovoGerador         40 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.40 % 
+gerador-pdf              8 hrs 16 mins       ██████████████████████░░░   87.95 % 
+jsPdfNovoGerador         40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.23 % 
+Unknown Project          27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
 
 💻 Operating System: 
-Windows                  5 hrs 29 mins       █████████████████████████   100.00 % 
+Windows                  9 hrs 24 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -120,5 +122,5 @@ Go                       1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/danilloism/danilloism/main/assets/bar_graph.png)
 
 
- Last Updated on 03/09/2024 18:42:13 UTC
+ Last Updated on 04/09/2024 18:40:37 UTC
 <!--END_SECTION:waka-->
