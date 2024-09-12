@@ -87,23 +87,16 @@ Sunday                   337 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-JavaScript               6 hrs 7 mins        ███████████████████░░░░░░   77.77 % 
-HTML                     1 hr 27 mins        █████░░░░░░░░░░░░░░░░░░░░   18.49 % 
-TypeScript               15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
-Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  7 hrs 51 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-gerador-pdf              7 hrs 35 mins       ████████████████████████░   96.61 % 
-admin-branduniverse-front10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
-branduniverse_frontend   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
-branduniverse-api        2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  7 hrs 51 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Dart** 
@@ -123,5 +116,5 @@ Go                       1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/danilloism/danilloism/main/assets/bar_graph.png)
 
 
- Last Updated on 11/09/2024 18:41:53 UTC
+ Last Updated on 12/09/2024 18:43:14 UTC
 <!--END_SECTION:waka-->
