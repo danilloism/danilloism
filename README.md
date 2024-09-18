@@ -52,8 +52,6 @@ Hello there! My name is Danillo and currently I'm a Computer Science student at 
 
 > 📦 142.5 kB Used in GitHub's Storage 
  > 
-> 🏆 2 Contributions in the Year 2024
- > 
 > 💼 Opted to Hire
  > 
 > 📜 48 Public Repositories 
@@ -87,16 +85,20 @@ Sunday                   337 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               2 hrs 4 mins        ████████████████░░░░░░░░░   62.44 % 
+SCSS                     1 hr 9 mins         █████████░░░░░░░░░░░░░░░░   34.74 % 
+JSON                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  3 hrs 18 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+admin-branduniverse-front1 hr 56 mins        ███████████████░░░░░░░░░░   58.77 % 
+branduniverse_frontend   1 hr 20 mins        ██████████░░░░░░░░░░░░░░░   40.56 % 
+branduniverse-api        1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  3 hrs 18 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -116,5 +118,5 @@ Go                       1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/danilloism/danilloism/main/assets/bar_graph.png)
 
 
- Last Updated on 17/09/2024 18:42:44 UTC
+ Last Updated on 18/09/2024 18:42:31 UTC
 <!--END_SECTION:waka-->
