@@ -44,15 +44,13 @@ Hello there! My name is Danillo and currently I'm a Computer Science student at 
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=danilloism&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)](#)<br>
 --->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C464%20hrs%2020%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C470%20hrs%2018%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 142.5 kB Used in GitHub's Storage 
- > 
-> 🏆 2 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -87,23 +85,23 @@ Sunday                   337 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-JavaScript               6 hrs 23 mins       ██████████████░░░░░░░░░░░   55.26 % 
-HTML                     2 hrs 34 mins       ██████░░░░░░░░░░░░░░░░░░░   22.25 % 
-JSON                     52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 % 
-Other                    20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
-TypeScript               20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
+JavaScript               6 hrs 55 mins       ██████████████░░░░░░░░░░░   57.11 % 
+HTML                     2 hrs 34 mins       █████░░░░░░░░░░░░░░░░░░░░   21.22 % 
+JSON                     52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.20 % 
+Other                    20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
+TypeScript               20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
 
 🔥 Editors: 
-VS Code                  11 hrs 33 mins      █████████████████████████   100.00 % 
+VS Code                  12 hrs 7 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-gerador-pdf              9 hrs 15 mins       ████████████████████░░░░░   80.09 % 
-branduniverse-api        1 hr 18 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.30 % 
-branduniverse_frontend   35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.07 % 
-admin-branduniverse-front24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
+gerador-pdf              9 hrs 49 mins       ████████████████████░░░░░   81.03 % 
+branduniverse-api        1 hr 18 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.77 % 
+branduniverse_frontend   35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.83 % 
+admin-branduniverse-front24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
 
 💻 Operating System: 
-Windows                  11 hrs 33 mins      █████████████████████████   100.00 % 
+Windows                  12 hrs 7 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -123,5 +121,5 @@ Go                       1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/danilloism/danilloism/main/assets/bar_graph.png)
 
 
- Last Updated on 03/10/2024 18:43:59 UTC
+ Last Updated on 04/10/2024 18:43:56 UTC
 <!--END_SECTION:waka-->
