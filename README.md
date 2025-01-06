@@ -52,8 +52,6 @@ Hello there! My name is Danillo and currently I'm a Computer Science student at 
 
 > 📦 142.6 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2025
- > 
 > 💼 Opted to Hire
  > 
 > 📜 48 Public Repositories 
@@ -116,5 +114,5 @@ Go                       1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/danilloism/danilloism/main/assets/bar_graph.png)
 
 
- Last Updated on 05/01/2025 18:40:59 UTC
+ Last Updated on 06/01/2025 18:44:22 UTC
 <!--END_SECTION:waka-->
