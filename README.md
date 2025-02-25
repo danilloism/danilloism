@@ -46,11 +46,13 @@ Hello there! My name is Danillo and currently I'm a Computer Science student at 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C476%20hrs%202%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 142.7 kB Used in GitHub's Storage 
+ > 
+> 🏆 0 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -85,16 +87,20 @@ Sunday                   337 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Astro                    35 mins             ███████████░░░░░░░░░░░░░░   44.80 % 
+JavaScript               15 mins             █████░░░░░░░░░░░░░░░░░░░░   19.67 % 
+TypeScript               12 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.11 % 
+JSON                     11 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.33 % 
+YAML                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 19 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+MyDevPage                1 hr 19 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 hr 19 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -114,5 +120,5 @@ Go                       1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/danilloism/danilloism/main/assets/bar_graph.png)
 
 
- Last Updated on 24/02/2025 18:45:00 UTC
+ Last Updated on 25/02/2025 18:45:03 UTC
 <!--END_SECTION:waka-->
