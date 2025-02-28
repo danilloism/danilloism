@@ -44,13 +44,13 @@ Hello there! My name is Danillo and currently I'm a Computer Science student at 
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=danilloism&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)](#)<br>
 --->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C480%20hrs%2042%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C483%20hrs%2010%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 142.7 kB Used in GitHub's Storage 
+> 📦 142.8 kB Used in GitHub's Storage 
  > 
 > 🏆 7 Contributions in the Year 2025
  > 
@@ -87,23 +87,23 @@ Sunday                   337 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-TypeScript               2 hrs 15 mins       ████████░░░░░░░░░░░░░░░░░   31.88 % 
-Astro                    2 hrs 14 mins       ████████░░░░░░░░░░░░░░░░░   31.47 % 
-JavaScript               1 hr 17 mins        █████░░░░░░░░░░░░░░░░░░░░   18.12 % 
-JSON                     39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.36 % 
-Other                    24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
+Astro                    4 hrs 48 mins       ███████████░░░░░░░░░░░░░░   44.13 % 
+TypeScript               2 hrs 56 mins       ███████░░░░░░░░░░░░░░░░░░   27.05 % 
+JavaScript               1 hr 17 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.85 % 
+JSON                     46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.18 % 
+Other                    26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 5 mins        █████████████████████████   100.00 % 
+VS Code                  10 hrs 52 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-MyDevPage                4 hrs 53 mins       █████████████████░░░░░░░░   68.85 % 
-Astro_i18n               1 hr 16 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.89 % 
-portfolio                32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 % 
-Unknown Project          24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.74 % 
+MyDevPage                8 hrs 9 mins        ███████████████████░░░░░░   74.98 % 
+Astro_i18n               1 hr 46 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.36 % 
+portfolio                32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.91 % 
+Unknown Project          24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
 
 💻 Operating System: 
-Windows                  7 hrs 5 mins        █████████████████████████   100.00 % 
+Windows                  10 hrs 52 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -123,5 +123,5 @@ Go                       1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/danilloism/danilloism/main/assets/bar_graph.png)
 
 
- Last Updated on 27/02/2025 18:45:05 UTC
+ Last Updated on 28/02/2025 18:44:40 UTC
 <!--END_SECTION:waka-->
