@@ -87,21 +87,16 @@ Sunday                   337 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Astro                    2 hrs 34 mins       █████████████████░░░░░░░░   67.91 % 
-TypeScript               40 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.97 % 
-YAML                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.98 % 
-JSON                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
-Markdown                 5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  3 hrs 46 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-MyDevPage                3 hrs 16 mins       ██████████████████████░░░   86.50 % 
-Astro_i18n               30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.50 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  3 hrs 46 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Dart** 
@@ -121,5 +116,5 @@ Go                       1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/danilloism/danilloism/main/assets/bar_graph.png)
 
 
- Last Updated on 06/03/2025 18:45:27 UTC
+ Last Updated on 07/03/2025 18:44:32 UTC
 <!--END_SECTION:waka-->
