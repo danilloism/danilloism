@@ -52,8 +52,6 @@ Hello there! My name is Danillo and currently I'm a Computer Science student at 
 
 > 📦 142.8 kB Used in GitHub's Storage 
  > 
-> 🏆 7 Contributions in the Year 2025
- > 
 > 💼 Opted to Hire
  > 
 > 📜 49 Public Repositories 
@@ -87,18 +85,16 @@ Sunday                   337 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-SQL                      1 hr 3 mins         ██████████████████████░░░   87.45 % 
-Other                    9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.55 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 12 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-migração mateus          1 hr 12 mins        █████████████████████████   99.92 % 
-sipef.os.app             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 12 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Dart** 
@@ -118,5 +114,5 @@ Go                       1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/danilloism/danilloism/main/assets/bar_graph.png)
 
 
- Last Updated on 18/04/2025 18:45:16 UTC
+ Last Updated on 19/04/2025 18:42:56 UTC
 <!--END_SECTION:waka-->
