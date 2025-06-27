@@ -44,15 +44,13 @@ Hello there! My name is Danillo and currently I'm a Computer Science student at 
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=danilloism&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)](#)<br>
 --->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C497%20hrs%204%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C497%20hrs%208%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 142.8 kB Used in GitHub's Storage 
- > 
-> 🏆 7 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -87,13 +85,15 @@ Sunday                   337 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-JavaScript               4 mins              █████████████████████████   100.00 % 
+JavaScript               4 mins              ███████████████████████░░   93.39 % 
+Other                    0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   06.61 % 
 
 🔥 Editors: 
 VS Code                  4 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-sipef.audit.webapp       4 mins              █████████████████████████   100.00 % 
+sipef.audit.webapp       4 mins              ███████████████████████░░   93.39 % 
+Unknown Project          0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   06.61 % 
 
 💻 Operating System: 
 Windows                  4 mins              █████████████████████████   100.00 % 
@@ -116,5 +116,5 @@ Go                       1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/danilloism/danilloism/main/assets/bar_graph.png)
 
 
- Last Updated on 26/06/2025 18:50:21 UTC
+ Last Updated on 27/06/2025 18:50:02 UTC
 <!--END_SECTION:waka-->
