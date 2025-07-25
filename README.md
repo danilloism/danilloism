@@ -52,6 +52,8 @@ Hello there! My name is Danillo and currently I'm a Computer Science student at 
 
 > 📦 142.8 kB Used in GitHub's Storage 
  > 
+> 🏆 7 Contributions in the Year 2025
+ > 
 > 💼 Opted to Hire
  > 
 > 📜 49 Public Repositories 
@@ -85,16 +87,18 @@ Sunday                   337 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Other                    6 mins              █████████████████████████   100.00 % 
+Other                    8 mins              █████████████░░░░░░░░░░░░   52.98 % 
+JavaScript               7 mins              ████████████░░░░░░░░░░░░░   47.02 % 
 
 🔥 Editors: 
-VS Code                  6 mins              █████████████████████████   100.00 % 
+VS Code                  15 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Unknown Project          6 mins              █████████████████████████   100.00 % 
+Unknown Project          8 mins              █████████████░░░░░░░░░░░░   52.98 % 
+sipef.audit.os.ws        7 mins              ████████████░░░░░░░░░░░░░   47.02 % 
 
 💻 Operating System: 
-Windows                  6 mins              █████████████████████████   100.00 % 
+Windows                  15 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -114,5 +118,5 @@ Go                       1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/danilloism/danilloism/main/assets/bar_graph.png)
 
 
- Last Updated on 24/07/2025 18:53:41 UTC
+ Last Updated on 25/07/2025 18:53:50 UTC
 <!--END_SECTION:waka-->
