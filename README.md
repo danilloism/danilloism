@@ -46,11 +46,13 @@ Hello there! My name is Danillo and currently I'm a Computer Science student at 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C521%20hrs%2044%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 142.8 kB Used in GitHub's Storage 
+ > 
+> 🏆 7 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -116,5 +118,5 @@ Go                       1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/danilloism/danilloism/main/assets/bar_graph.png)
 
 
- Last Updated on 26/07/2025 18:50:25 UTC
+ Last Updated on 27/07/2025 18:51:00 UTC
 <!--END_SECTION:waka-->
