@@ -44,15 +44,13 @@ Hello there! My name is Danillo and currently I'm a Computer Science student at 
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=danilloism&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)](#)<br>
 --->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C534%20hrs%2029%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C534%20hrs%2031%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 142.8 kB Used in GitHub's Storage 
- > 
-> 🏆 7 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -87,21 +85,22 @@ Sunday                   337 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-JavaScript               1 hr 52 mins        ██████████████████████░░░   86.06 % 
-XML                      16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.98 % 
-Java Properties          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+JavaScript               1 hr 9 mins         ████████████░░░░░░░░░░░░░   48.26 % 
+Other                    43 mins             ████████░░░░░░░░░░░░░░░░░   30.24 % 
+XML                      29 mins             █████░░░░░░░░░░░░░░░░░░░░   20.68 % 
+Java Properties          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
 JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 10 mins       █████████████████████████   100.00 % 
+VS Code                  2 hrs 24 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-sipef.audit.os.ws        1 hr 27 mins        █████████████████░░░░░░░░   67.24 % 
-sipefosweb               42 mins             ████████░░░░░░░░░░░░░░░░░   32.76 % 
+sipef.audit.os.ws        1 hr 40 mins        █████████████████░░░░░░░░   69.65 % 
+Unknown Project          43 mins             ████████░░░░░░░░░░░░░░░░░   30.21 % 
+sipefosweb               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 
 💻 Operating System: 
-Windows                  2 hrs 10 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 24 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -121,5 +120,5 @@ Go                       1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/danilloism/danilloism/main/assets/bar_graph.png)
 
 
- Last Updated on 14/08/2025 18:52:51 UTC
+ Last Updated on 15/08/2025 18:51:22 UTC
 <!--END_SECTION:waka-->
