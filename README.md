@@ -44,7 +44,7 @@ Hello there! My name is Danillo and currently I'm a Computer Science student at 
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=danilloism&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)](#)<br>
 --->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C559%20hrs%2051%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C560%20hrs%204%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -87,18 +87,18 @@ Sunday                   337 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-JavaScript               3 mins              █████████████████░░░░░░░░   69.21 % 
-XML                      1 min               ████████░░░░░░░░░░░░░░░░░   30.79 % 
+XML                      14 mins             ████████████████████░░░░░   80.16 % 
+JavaScript               3 mins              █████░░░░░░░░░░░░░░░░░░░░   19.84 % 
 
 🔥 Editors: 
-VS Code                  5 mins              █████████████████████████   100.00 % 
+VS Code                  17 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-sipef.audit.os.ws        3 mins              █████████████████░░░░░░░░   69.21 % 
-Unknown Project          1 min               ████████░░░░░░░░░░░░░░░░░   30.79 % 
+sipef.audit.os.ws        16 mins             ███████████████████████░░   91.22 % 
+Unknown Project          1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   08.78 % 
 
 💻 Operating System: 
-Windows                  5 mins              █████████████████████████   100.00 % 
+Windows                  17 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -118,5 +118,5 @@ Go                       1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/danilloism/danilloism/main/assets/bar_graph.png)
 
 
- Last Updated on 18/09/2025 18:47:22 UTC
+ Last Updated on 19/09/2025 18:45:43 UTC
 <!--END_SECTION:waka-->
