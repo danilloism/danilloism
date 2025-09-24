@@ -44,6 +44,8 @@ Hello there! My name is Danillo and currently I'm a Computer Science student at 
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=danilloism&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)](#)<br>
 --->
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C560%20hrs%207%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -58,6 +60,48 @@ Hello there! My name is Danillo and currently I'm a Computer Science student at 
  > 
 > 🔑 19 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                524 commits         ██████░░░░░░░░░░░░░░░░░░░   22.04 % 
+🌆 Daytime                1394 commits        ███████████████░░░░░░░░░░   58.65 % 
+🌃 Evening                353 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.85 % 
+🌙 Night                  106 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   379 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.94 % 
+Tuesday                  361 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.19 % 
+Wednesday                355 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.93 % 
+Thursday                 406 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.08 % 
+Friday                   341 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.35 % 
+Saturday                 198 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+Sunday                   337 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.18 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Sao_Paulo
+
+💬 Programming Languages: 
+XML                      15 mins             █████████████████████████   98.72 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+
+🔥 Editors: 
+VS Code                  15 mins             █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+sipef.audit.os.ws        12 mins             █████████████████████░░░░   83.45 % 
+Unknown Project          2 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.55 % 
+
+💻 Operating System: 
+Windows                  15 mins             █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Dart** 
 
 ```text
@@ -75,5 +119,5 @@ Go                       1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/danilloism/danilloism/main/assets/bar_graph.png)
 
 
- Last Updated on 23/09/2025 18:47:35 UTC
+ Last Updated on 24/09/2025 18:45:30 UTC
 <!--END_SECTION:waka-->
