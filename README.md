@@ -44,8 +44,6 @@ Hello there! My name is Danillo and currently I'm a Computer Science student at 
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=danilloism&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)](#)<br>
 --->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C566%20hrs%2025%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -87,20 +85,20 @@ Sunday                   337 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-JavaScript               8 hrs 43 mins       ██████████████████████░░░   86.20 % 
-XML                      1 hr 7 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.15 % 
-JSON                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
-Java Properties          6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+JavaScript               11 hrs 38 mins      ██████████████████████░░░   89.00 % 
+XML                      1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 % 
+JSON                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
+Java Properties          8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
+C#                       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 🔥 Editors: 
-VS Code                  10 hrs 7 mins       █████████████████████████   100.00 % 
+VS Code                  13 hrs 5 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-sipef.audit.os.ws        10 hrs 7 mins       █████████████████████████   100.00 % 
+sipef.audit.os.ws        13 hrs 5 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  10 hrs 7 mins       █████████████████████████   100.00 % 
+Windows                  13 hrs 5 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -120,5 +118,5 @@ Go                       1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/danilloism/danilloism/main/assets/bar_graph.png)
 
 
- Last Updated on 14/10/2025 18:48:05 UTC
+ Last Updated on 15/10/2025 18:48:34 UTC
 <!--END_SECTION:waka-->
