@@ -44,9 +44,7 @@ Hello there! My name is Danillo and currently I'm a Computer Science student at 
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=danilloism&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)](#)<br>
 --->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C580%20hrs%2014%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 **🐱 My GitHub Data** 
 
@@ -87,24 +85,20 @@ Sunday                   337 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-JavaScript               1 hr 40 mins        █████████████████░░░░░░░░   66.24 % 
-XML                      19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.13 % 
-Markdown                 13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.86 % 
-HTML                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.63 % 
-JSON                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
+JavaScript               3 hrs 29 mins       ██████████████████████░░░   86.10 % 
+XML                      23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.69 % 
+JSON                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
+Java Properties          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
+C#                       2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 31 mins       █████████████████████████   100.00 % 
+VS Code                  4 hrs 3 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-sipef.audit.os.ws        1 hr 41 mins        █████████████████░░░░░░░░   66.72 % 
-lab03-formulario-aluno   24 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.42 % 
-lab04-formulario-funciona12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.97 % 
-devtech-academy          7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
-lab05-cinema             5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
+sipef.audit.os.ws        4 hrs 3 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  2 hrs 31 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 3 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -124,5 +118,5 @@ Astro                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/danilloism/danilloism/main/assets/bar_graph.png)
 
 
- Last Updated on 31/10/2025 18:49:29 UTC
+ Last Updated on 01/11/2025 18:43:38 UTC
 <!--END_SECTION:waka-->
