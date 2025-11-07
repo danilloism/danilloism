@@ -44,7 +44,7 @@ Hello there! My name is Danillo and currently I'm a Computer Science student at 
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=danilloism&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)](#)<br>
 --->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C588%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C590%20hrs%205%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
@@ -87,20 +87,24 @@ Sunday                   337 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-JavaScript               7 hrs 55 mins       ████████████████████░░░░░   80.90 % 
-XML                      1 hr 30 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.31 % 
-JSON                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
-Java Properties          4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
-C#                       2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
+JavaScript               6 hrs 42 mins       ████████████████████░░░░░   78.92 % 
+XML                      1 hr 10 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.76 % 
+JSON                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
+Docker                   6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
+Markdown                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 48 mins       █████████████████████████   100.00 % 
+VS Code                  8 hrs 29 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-sipef.audit.os.ws        9 hrs 48 mins       █████████████████████████   100.00 % 
+sipef.audit.os.ws        8 hrs 9 mins        ████████████████████████░   95.95 % 
+lab02                    11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
+lab03-formulario-aluno   6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
+lab-git-colaborativo-cmp21 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+lab04-formulario-funciona1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
 
 💻 Operating System: 
-Windows                  9 hrs 48 mins       █████████████████████████   100.00 % 
+Windows                  8 hrs 29 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -120,5 +124,5 @@ Astro                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/danilloism/danilloism/main/assets/bar_graph.png)
 
 
- Last Updated on 06/11/2025 18:51:53 UTC
+ Last Updated on 07/11/2025 18:46:34 UTC
 <!--END_SECTION:waka-->
