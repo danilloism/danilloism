@@ -44,7 +44,7 @@ Hello there! My name is Danillo and currently I'm a Computer Science student at 
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=danilloism&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)](#)<br>
 --->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C606%20hrs%2031%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C606%20hrs%2040%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
@@ -87,18 +87,19 @@ Sunday                   337 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-JavaScript               43 mins             █████████████████████████   98.50 % 
-Java Properties          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+JavaScript               4 hrs 49 mins       ████████████████████████░   96.04 % 
+Java Properties          10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
+Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-VS Code                  44 mins             █████████████████████████   100.00 % 
+VS Code                  5 hrs 1 min         █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-sipef.audit.os.ws        44 mins             █████████████████████████   100.00 % 
+sipef.audit.os.ws        5 hrs 1 min         █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  44 mins             █████████████████████████   100.00 % 
+Windows                  5 hrs 1 min         █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -118,5 +119,5 @@ Astro                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/danilloism/danilloism/main/assets/bar_graph.png)
 
 
- Last Updated on 28/11/2025 18:48:25 UTC
+ Last Updated on 29/11/2025 18:47:55 UTC
 <!--END_SECTION:waka-->
