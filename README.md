@@ -44,7 +44,7 @@ Hello there! My name is Danillo and currently I'm a Computer Science student at 
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=danilloism&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)](#)<br>
 --->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C622%20hrs%2044%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C626%20hrs%2019%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
@@ -87,21 +87,18 @@ Sunday                   337 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-JavaScript               5 hrs 15 mins       ██████████████████░░░░░░░   71.08 % 
-XML                      1 hr 33 mins        █████░░░░░░░░░░░░░░░░░░░░   21.04 % 
-CSS                      27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.10 % 
-TypeScript               4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
-JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
+JavaScript               7 hrs 24 mins       ███████████████████░░░░░░   77.92 % 
+XML                      1 hr 39 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.34 % 
+CSS                      27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.73 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 23 mins       █████████████████████████   100.00 % 
+VS Code                  9 hrs 30 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-sipef.audit.os.ws        7 hrs 15 mins       █████████████████████████   98.21 % 
-n2-cineweb               7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
+sipef.audit.os.ws        9 hrs 30 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  7 hrs 23 mins       █████████████████████████   100.00 % 
+Windows                  9 hrs 30 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -121,5 +118,5 @@ Java                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/danilloism/danilloism/main/assets/bar_graph.png)
 
 
- Last Updated on 19/12/2025 18:52:26 UTC
+ Last Updated on 20/12/2025 18:46:52 UTC
 <!--END_SECTION:waka-->
