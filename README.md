@@ -50,7 +50,7 @@ Hello there! My name is Danillo and currently I'm a Computer Science student at 
 
 **🐱 My GitHub Data** 
 
-> 📦 162.2 kB Used in GitHub's Storage 
+> 📦 162.3 kB Used in GitHub's Storage 
  > 
 > 🏆 53 Contributions in the Year 2025
  > 
@@ -117,5 +117,5 @@ Java                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/danilloism/danilloism/main/assets/bar_graph.png)
 
 
- Last Updated on 27/12/2025 18:50:09 UTC
+ Last Updated on 28/12/2025 18:51:44 UTC
 <!--END_SECTION:waka-->
