@@ -44,7 +44,7 @@ Hello there! My name is Danillo and currently I'm a Computer Science student at 
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=danilloism&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)](#)<br>
 --->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C630%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C633%20hrs%206%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -87,18 +87,19 @@ Sunday                   337 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-JavaScript               4 hrs 19 mins       ████████████████████████░   95.42 % 
-XML                      12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 % 
-Java Properties          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+JavaScript               8 hrs 24 mins       ████████████████████████░   95.27 % 
+XML                      23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 % 
+Java Properties          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 31 mins       █████████████████████████   100.00 % 
+VS Code                  8 hrs 49 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-sipef.audit.os.ws        4 hrs 31 mins       █████████████████████████   100.00 % 
+sipef.audit.os.ws        8 hrs 49 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  4 hrs 31 mins       █████████████████████████   100.00 % 
+Windows                  8 hrs 49 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -118,5 +119,5 @@ Java                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/danilloism/danilloism/main/assets/bar_graph.png)
 
 
- Last Updated on 30/12/2025 18:54:15 UTC
+ Last Updated on 31/12/2025 18:51:46 UTC
 <!--END_SECTION:waka-->
