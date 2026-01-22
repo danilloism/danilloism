@@ -44,7 +44,7 @@ Hello there! My name is Danillo and currently I'm a Computer Science student at 
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=danilloism&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)](#)<br>
 --->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C641%20hrs%2019%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C641%20hrs%2021%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -87,18 +87,20 @@ Sunday                   337 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-JavaScript               1 hr 30 mins        ███████████████████░░░░░░   74.89 % 
-XML                      30 mins             ██████░░░░░░░░░░░░░░░░░░░   25.10 % 
+JavaScript               1 hr 51 mins        █████████████████░░░░░░░░   68.17 % 
+XML                      39 mins             ██████░░░░░░░░░░░░░░░░░░░   24.04 % 
+Java Properties          12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 % 
+C#                       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-VS Code                  2 hrs               █████████████████████████   100.00 % 
+VS Code                  2 hrs 42 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-sipef.audit.os.ws        2 hrs               █████████████████████████   100.00 % 
+sipef.audit.os.ws        2 hrs 42 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  2 hrs               █████████████████████████   100.00 % 
+Windows                  2 hrs 42 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -118,5 +120,5 @@ Java                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/danilloism/danilloism/main/assets/bar_graph.png)
 
 
- Last Updated on 21/01/2026 19:06:05 UTC
+ Last Updated on 22/01/2026 18:59:22 UTC
 <!--END_SECTION:waka-->
