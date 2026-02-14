@@ -44,7 +44,7 @@ Hello there! My name is Danillo and currently I'm a Computer Science student at 
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=danilloism&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)](#)<br>
 --->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C652%20hrs%2015%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C655%20hrs%2019%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -87,19 +87,20 @@ Sunday                   337 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-JavaScript               5 hrs 29 mins       █████████████████████░░░░   83.51 % 
-XML                      59 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.14 % 
-Java Properties          3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
-C#                       1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
+JavaScript               8 hrs 38 mins       ██████████████████████░░░   88.03 % 
+XML                      1 hr 2 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.64 % 
+Java Properties          3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
+JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
+C#                       1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 35 mins       █████████████████████████   100.00 % 
+VS Code                  9 hrs 48 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-sipef.audit.os.ws        6 hrs 35 mins       █████████████████████████   100.00 % 
+sipef.audit.os.ws        9 hrs 48 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  6 hrs 35 mins       █████████████████████████   100.00 % 
+Windows                  9 hrs 48 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -119,5 +120,5 @@ Java                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/danilloism/danilloism/main/assets/bar_graph.png)
 
 
- Last Updated on 13/02/2026 19:14:23 UTC
+ Last Updated on 14/02/2026 19:00:49 UTC
 <!--END_SECTION:waka-->
