@@ -46,7 +46,7 @@ Hello there! My name is Danillo and currently I'm a Computer Science student at 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C660%20hrs-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -87,18 +87,19 @@ Sunday                   337 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-C                        41 mins             ████████████████░░░░░░░░░   62.54 % 
-XML                      24 mins             █████████░░░░░░░░░░░░░░░░   36.51 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
+C                        41 mins             ███████████████░░░░░░░░░░   60.88 % 
+XML                      24 mins             █████████░░░░░░░░░░░░░░░░   35.53 % 
+Python                   1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
 
 🔥 Editors: 
-VS Code                  1 hr 6 mins         █████████████████████████   100.00 % 
+VS Code                  1 hr 8 mins         █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Unknown Project          1 hr 6 mins         █████████████████████████   100.00 % 
+Unknown Project          1 hr 8 mins         █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  1 hr 6 mins         █████████████████████████   100.00 % 
+Windows                  1 hr 8 mins         █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -118,5 +119,5 @@ Java                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/danilloism/danilloism/main/assets/bar_graph.png)
 
 
- Last Updated on 01/03/2026 18:56:35 UTC
+ Last Updated on 02/03/2026 19:11:30 UTC
 <!--END_SECTION:waka-->
