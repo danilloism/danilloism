@@ -87,16 +87,18 @@ Sunday                   337 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               1 hr 56 mins        ███████████████████░░░░░░   76.86 % 
+XML                      34 mins             ██████░░░░░░░░░░░░░░░░░░░   23.01 % 
+C#                       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  2 hrs 31 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+sipef.audit.os.ws        2 hrs 31 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  2 hrs 31 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -116,5 +118,5 @@ Java                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/danilloism/danilloism/main/assets/bar_graph.png)
 
 
- Last Updated on 11/06/2026 20:42:46 UTC
+ Last Updated on 12/06/2026 20:34:31 UTC
 <!--END_SECTION:waka-->
