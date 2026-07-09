@@ -44,7 +44,7 @@ Hello there! My name is Danillo and currently I'm a Computer Science student at 
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=danilloism&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)](#)<br>
 --->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C748%20hrs%208%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C748%20hrs%2020%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -87,21 +87,21 @@ Sunday                   337 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-JavaScript               2 hrs 57 mins       ██████████████████████░░░   88.99 % 
-C#                       11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
-Markdown                 6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
-XML                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+JavaScript               17 mins             █████████░░░░░░░░░░░░░░░░   34.30 % 
+C#                       17 mins             ████████░░░░░░░░░░░░░░░░░   33.28 % 
+XML                      13 mins             ██████░░░░░░░░░░░░░░░░░░░   25.84 % 
+Other                    2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.68 % 
+Java Properties          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 59 mins       ██████████████████████░░░   89.88 % 
-Claude Code              20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.12 % 
+VS Code                  26 mins             █████████████░░░░░░░░░░░░   50.91 % 
+Claude Code              25 mins             ████████████░░░░░░░░░░░░░   49.09 % 
 
 🐱‍💻 Projects: 
-sipef.audit.os.ws        3 hrs 19 mins       █████████████████████████   100.00 % 
+sipef.audit.os.ws        51 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  3 hrs 19 mins       █████████████████████████   100.00 % 
+Windows                  51 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -121,5 +121,5 @@ Java                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/danilloism/danilloism/main/assets/bar_graph.png)
 
 
- Last Updated on 08/07/2026 20:02:40 UTC
+ Last Updated on 09/07/2026 20:17:18 UTC
 <!--END_SECTION:waka-->
