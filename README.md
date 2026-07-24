@@ -85,16 +85,21 @@ Sunday                   337 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-XML                      0 secs              █████████████████████████   100.00 % 
+JavaScript               45 mins             ███████████░░░░░░░░░░░░░░   43.24 % 
+Markdown                 35 mins             ████████░░░░░░░░░░░░░░░░░   33.54 % 
+C#                       18 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.10 % 
+XML                      4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 % 
+Java Properties          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
 
 🔥 Editors: 
-VS Code                  0 secs              █████████████████████████   100.00 % 
+Claude Code              1 hr 23 mins        ████████████████████░░░░░   79.59 % 
+VS Code                  21 mins             █████░░░░░░░░░░░░░░░░░░░░   20.41 % 
 
 🐱‍💻 Projects: 
-sipef.audit.os.ws        0 secs              █████████████████████████   100.00 % 
+sipef.audit.os.ws        1 hr 45 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  0 secs              █████████████████████████   100.00 % 
+Windows                  1 hr 45 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -114,5 +119,5 @@ Java                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/danilloism/danilloism/main/assets/bar_graph.png)
 
 
- Last Updated on 23/07/2026 19:55:00 UTC
+ Last Updated on 24/07/2026 19:54:37 UTC
 <!--END_SECTION:waka-->
