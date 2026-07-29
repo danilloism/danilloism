@@ -44,6 +44,10 @@ Hello there! My name is Danillo and currently I'm a Computer Science student at 
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=danilloism&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)](#)<br>
 --->
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C716%20hrs%209%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-2%20hrs%2041%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -85,29 +89,29 @@ Sunday                   337 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-JavaScript               45 mins             ███████████░░░░░░░░░░░░░░   43.24 % 
-Markdown                 35 mins             ████████░░░░░░░░░░░░░░░░░   33.54 % 
-C#                       18 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.10 % 
-XML                      4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 % 
-Java Properties          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
+JavaScript               1 hr 56 mins        ████████████░░░░░░░░░░░░░   49.23 % 
+XML                      40 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.29 % 
+Markdown                 35 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.92 % 
+C#                       18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 % 
+JSON                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.96 % 
 
 🔥 Editors: 
-Claude Code              1 hr 23 mins        ████████████████████░░░░░   79.59 % 
-VS Code                  21 mins             █████░░░░░░░░░░░░░░░░░░░░   20.41 % 
+VS Code                  2 hrs 32 mins       ████████████████░░░░░░░░░   64.59 % 
+Claude Code              1 hr 23 mins        █████████░░░░░░░░░░░░░░░░   35.41 % 
 
 🐱‍💻 Projects: 
-sipef.audit.os.ws        1 hr 45 mins        █████████████████████████   100.00 % 
+sipef.audit.os.ws        3 hrs 56 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  1 hr 45 mins        █████████████████████████   100.00 % 
+Windows                  3 hrs 56 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 24 mins (79.73%)
+⏱ AI Coding Time: 1 hr 24 mins (35.47%)
 
-✍️ 1,139 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 1,139 lines written by AI, 146 lines written by hand (88.64% AI-written)
 
 🔤 23,141,009 Input Tokens, 191,299 Output Tokens
 
@@ -119,10 +123,10 @@ Opus                     4,161 lines         ███████████�
 Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
+🤖 AI-Driven — 88.64% of written lines came from AI
 📚 Verbose Prompter — average 2,481 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+🚀 High AI Trust — 4.93% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Dart** 
@@ -142,5 +146,5 @@ Java                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/danilloism/danilloism/main/assets/bar_graph.png)
 
 
- Last Updated on 28/07/2026 20:00:59 UTC
+ Last Updated on 29/07/2026 19:52:29 UTC
 <!--END_SECTION:waka-->
