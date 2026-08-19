@@ -89,27 +89,27 @@ Sunday                   337 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-XML                      3 mins              ████████████████░░░░░░░░░   63.11 % 
-C#                       1 min               ████████░░░░░░░░░░░░░░░░░   32.05 % 
-JavaScript               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
+JavaScript               12 mins             ████████████████░░░░░░░░░   63.17 % 
+XML                      5 mins              ███████░░░░░░░░░░░░░░░░░░   28.88 % 
+C#                       1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 % 
 
 🔥 Editors: 
-VS Code                  3 mins              █████████████████░░░░░░░░   67.95 % 
-Claude Code              1 min               ████████░░░░░░░░░░░░░░░░░   32.05 % 
+VS Code                  18 mins             ███████████████████████░░   92.05 % 
+Claude Code              1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 % 
 
 🐱‍💻 Projects: 
-sipef.audit.os.ws        4 mins              █████████████████████████   100.00 % 
+sipef.audit.os.ws        19 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  4 mins              █████████████████████████   100.00 % 
+Windows                  19 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 min (32.05%)
+⏱ AI Coding Time: 1 min (7.95%)
 
-✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
+✍️ 0 lines written by AI, 3 lines written by hand (0.0% AI-written)
 
 🔤 520 Input Tokens, 195 Output Tokens
 
@@ -120,10 +120,10 @@ Windows                  4 mins              ███████████�
 Opus                     10 lines            █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
 📝 Concise Prompter — average 0 characters per prompt
 🎯 One-Shot Prompter — average 0 prompts per session
-🚀 High AI Trust — 0% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Dart** 
@@ -143,5 +143,5 @@ Java                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/danilloism/danilloism/main/assets/bar_graph.png)
 
 
- Last Updated on 18/08/2026 19:07:13 UTC
+ Last Updated on 19/08/2026 19:03:02 UTC
 <!--END_SECTION:waka-->
