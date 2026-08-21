@@ -44,7 +44,7 @@ Hello there! My name is Danillo and currently I'm a Computer Science student at 
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=danilloism&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)](#)<br>
 --->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C720%20hrs%2032%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C720%20hrs%2053%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-2%20hrs%2047%20mins-blue?style=flat)
 
@@ -89,42 +89,24 @@ Sunday                   337 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-JavaScript               22 mins             ███████████████░░░░░░░░░░   59.01 % 
-XML                      10 mins             ███████░░░░░░░░░░░░░░░░░░   27.28 % 
-Java Properties          3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.57 % 
-C#                       1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
+JavaScript               22 mins             ███████████████░░░░░░░░░░   61.56 % 
+XML                      10 mins             ███████░░░░░░░░░░░░░░░░░░   28.46 % 
+Java Properties          3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.98 % 
 
 🔥 Editors: 
-VS Code                  36 mins             ████████████████████████░   95.86 % 
-Claude Code              1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
+VS Code                  36 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-sipef.audit.os.ws        37 mins             █████████████████████████   100.00 % 
+sipef.audit.os.ws        36 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  37 mins             █████████████████████████   100.00 % 
+Windows                  36 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 min (4.14%)
-
-✍️ 0 lines written by AI, 37 lines written by hand (0.0% AI-written)
-
-🔤 520 Input Tokens, 195 Output Tokens
-
-💵 $0.03 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 0 AI Prompts
-
-Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 0 characters per prompt
-🎯 One-Shot Prompter — average 0 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in Dart** 
@@ -144,5 +126,5 @@ Java                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/danilloism/danilloism/main/assets/bar_graph.png)
 
 
- Last Updated on 20/08/2026 19:10:56 UTC
+ Last Updated on 21/08/2026 19:06:30 UTC
 <!--END_SECTION:waka-->
