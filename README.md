@@ -48,7 +48,7 @@ Hello there! My name is Danillo and currently I'm a Computer Science student at 
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-5%20hrs%2027%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -89,42 +89,39 @@ Sunday                   337 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-JavaScript               53 mins             ██████████████████████░░░   88.87 % 
-XML                      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
-Markdown                 2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 % 
-JSON                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
+JavaScript               34 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  38 mins             ████████████████░░░░░░░░░   63.65 % 
-Claude Code              21 mins             █████████░░░░░░░░░░░░░░░░   36.35 % 
+VS Code                  33 mins             ████████████████████████░   97.05 % 
+Claude Code              1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
 
 🐱‍💻 Projects: 
-sipef.audit.os.ws        1 hr                █████████████████████████   100.00 % 
+sipef.audit.os.ws        34 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  1 hr                █████████████████████████   100.00 % 
+Windows                  34 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 23 mins (39.57%)
+⏱ AI Coding Time: 2 mins (6.0%)
 
-✍️ 70 lines written by AI, 7 lines written by hand (90.91% AI-written)
+✍️ 18 lines written by AI, 7 lines written by hand (72.0% AI-written)
 
-🔤 208,182 Input Tokens, 53,884 Output Tokens
+🔤 49,062 Input Tokens, 4,075 Output Tokens
 
-💵 $4.44 Estimated AI Cost This Week
+💵 $1.19 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 9 AI Prompts
+🧠 1 AI Sessions, 2 AI Prompts
 
-Opus                     105 lines           █████████████████████████   100.00 % 
+Opus                     52 lines            █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 90.91% of written lines came from AI
-📝 Concise Prompter — average 147 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 11.39% of changed lines were hand-edited
+🤖 AI-Driven — 72.0% of written lines came from AI
+📝 Concise Prompter — average 270 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 33.33% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Dart** 
@@ -144,5 +141,5 @@ Java                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/danilloism/danilloism/main/assets/bar_graph.png)
 
 
- Last Updated on 23/09/2026 21:39:30 UTC
+ Last Updated on 24/09/2026 21:40:34 UTC
 <!--END_SECTION:waka-->
