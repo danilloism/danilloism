@@ -48,7 +48,7 @@ Hello there! My name is Danillo and currently I'm a Computer Science student at 
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-5%20hrs%2027%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -89,16 +89,19 @@ Sunday                   337 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               22 mins             █████████████████████░░░░   84.76 % 
+JSON                     3 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.17 % 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  26 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+sipefosweb               22 mins             █████████████████████░░░░   85.29 % 
+sipef.audit.os.ws        3 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  26 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -124,5 +127,5 @@ Java                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/danilloism/danilloism/main/assets/bar_graph.png)
 
 
- Last Updated on 06/10/2026 22:44:53 UTC
+ Last Updated on 07/10/2026 23:15:30 UTC
 <!--END_SECTION:waka-->
