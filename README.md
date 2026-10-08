@@ -44,7 +44,7 @@ Hello there! My name is Danillo and currently I'm a Computer Science student at 
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=danilloism&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)](#)<br>
 --->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C725%20hrs%209%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C725%20hrs%2036%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-5%20hrs%2027%20mins-blue?style=flat)
 
@@ -89,19 +89,22 @@ Sunday                   337 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-JavaScript               22 mins             █████████████████████░░░░   84.76 % 
-JSON                     3 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.17 % 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
+JavaScript               2 hrs 50 mins       ████████████░░░░░░░░░░░░░   48.07 % 
+XML                      2 hrs 13 mins       █████████░░░░░░░░░░░░░░░░   37.57 % 
+C#                       22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.49 % 
+JSON                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 % 
+HTML                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
 
 🔥 Editors: 
-VS Code                  26 mins             █████████████████████████   100.00 % 
+VS Code                  5 hrs 54 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-sipefosweb               22 mins             █████████████████████░░░░   85.29 % 
-sipef.audit.os.ws        3 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
+sipefosweb               5 hrs 16 mins       ██████████████████████░░░   89.31 % 
+sipef.audit.os.ws        28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 % 
+sipef.os.app             9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
 
 💻 Operating System: 
-Windows                  26 mins             █████████████████████████   100.00 % 
+Windows                  5 hrs 54 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -127,5 +130,5 @@ Java                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/danilloism/danilloism/main/assets/bar_graph.png)
 
 
- Last Updated on 07/10/2026 23:15:30 UTC
+ Last Updated on 08/10/2026 23:30:47 UTC
 <!--END_SECTION:waka-->
