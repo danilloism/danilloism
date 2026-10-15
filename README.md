@@ -89,45 +89,43 @@ Sunday                   337 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-JavaScript               4 hrs 46 mins       ████████████░░░░░░░░░░░░░   49.79 % 
-XML                      2 hrs 18 mins       ██████░░░░░░░░░░░░░░░░░░░   24.07 % 
-C#                       1 hr 34 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.38 % 
-Markdown                 31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.50 % 
-JSON                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
+JavaScript               3 hrs 56 mins       ██████████████░░░░░░░░░░░   54.82 % 
+C#                       2 hrs 3 mins        ███████░░░░░░░░░░░░░░░░░░   28.60 % 
+XML                      34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 % 
+Markdown                 32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 % 
+Java Properties          4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 52 mins       █████████████████████░░░░   82.15 % 
-Claude Code              1 hr 42 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.85 % 
+VS Code                  4 hrs 4 mins        ██████████████░░░░░░░░░░░   56.58 % 
+Claude Code              3 hrs 7 mins        ███████████░░░░░░░░░░░░░░   43.42 % 
 
 🐱‍💻 Projects: 
-sipefosweb               9 hrs 1 min         ████████████████████████░   94.09 % 
-sipef.audit.os.ws        24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
-sipef.os.app             9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
+sipefosweb               7 hrs 11 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  9 hrs 35 mins       █████████████████████████   100.00 % 
+Windows                  7 hrs 11 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 43 mins (18.04%)
+⏱ AI Coding Time: 3 hrs 28 mins (48.22%)
 
-✍️ 2,098 lines written by AI, 650 lines written by hand (76.35% AI-written)
+✍️ 3,495 lines written by AI, 99 lines written by hand (97.25% AI-written)
 
-🔤 580,913 Input Tokens, 157,708 Output Tokens
+🔤 966,258 Input Tokens, 292,854 Output Tokens
 
-💵 $14.88 Estimated AI Cost This Week
+💵 $28.41 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 8 AI Prompts
+🧠 5 AI Sessions, 14 AI Prompts
 
-Opus                     2,149 lines         █████████████████████████   100.00 % 
+Opus                     3,509 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 76.35% of written lines came from AI
-📚 Verbose Prompter — average 4,062 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🔍 Hands-On Reviewer — 52.27% of changed lines were hand-edited
+🤖 AI-Driven — 97.25% of written lines came from AI
+📚 Verbose Prompter — average 2,392 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 12.58% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Dart** 
@@ -147,5 +145,5 @@ Java                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/danilloism/danilloism/main/assets/bar_graph.png)
 
 
- Last Updated on 14/10/2026 21:52:53 UTC
+ Last Updated on 15/10/2026 21:36:35 UTC
 <!--END_SECTION:waka-->
