@@ -44,11 +44,11 @@ Hello there! My name is Danillo and currently I'm a Computer Science student at 
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=danilloism&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)](#)<br>
 --->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C735%20hrs%2047%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C738%20hrs%2016%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-7%20hrs%2046%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-8%20hrs%2055%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-12-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -89,43 +89,44 @@ Sunday                   337 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-JavaScript               3 hrs 56 mins       ██████████████░░░░░░░░░░░   54.82 % 
-C#                       2 hrs 3 mins        ███████░░░░░░░░░░░░░░░░░░   28.60 % 
-XML                      34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 % 
-Markdown                 32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 % 
-Java Properties          4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
+JavaScript               2 hrs 24 mins       ███████████░░░░░░░░░░░░░░   43.80 % 
+C#                       2 hrs 1 min         █████████░░░░░░░░░░░░░░░░   36.81 % 
+XML                      30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.07 % 
+Markdown                 26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 % 
+Java Properties          6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 4 mins        ██████████████░░░░░░░░░░░   56.58 % 
-Claude Code              3 hrs 7 mins        ███████████░░░░░░░░░░░░░░   43.42 % 
+Claude Code              3 hrs 8 mins        ██████████████░░░░░░░░░░░   56.98 % 
+VS Code                  2 hrs 22 mins       ███████████░░░░░░░░░░░░░░   43.02 % 
 
 🐱‍💻 Projects: 
-sipefosweb               7 hrs 11 mins       █████████████████████████   100.00 % 
+sipefosweb               5 hrs 30 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  7 hrs 11 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 30 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 28 mins (48.22%)
+⏱ AI Coding Time: 3 hrs 28 mins (63.11%)
 
-✍️ 3,495 lines written by AI, 99 lines written by hand (97.25% AI-written)
+✍️ 3,516 lines written by AI, 34 lines written by hand (99.04% AI-written)
 
-🔤 966,258 Input Tokens, 292,854 Output Tokens
+🔤 1,317,535 Input Tokens, 365,166 Output Tokens
 
-💵 $28.41 Estimated AI Cost This Week
+💵 $42.08 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 14 AI Prompts
+🧠 5 AI Sessions, 20 AI Prompts
 
-Opus                     3,509 lines         █████████████████████████   100.00 % 
+Opus                     3,532 lines         █████████████████████████   100.00 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 97.25% of written lines came from AI
-📚 Verbose Prompter — average 2,392 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 12.58% of changed lines were hand-edited
+🤖 AI-Driven — 99.04% of written lines came from AI
+📄 Detailed Prompter — average 722 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 2.38% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Dart** 
@@ -145,5 +146,5 @@ Java                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/danilloism/danilloism/main/assets/bar_graph.png)
 
 
- Last Updated on 15/10/2026 21:36:35 UTC
+ Last Updated on 16/10/2026 21:29:29 UTC
 <!--END_SECTION:waka-->
