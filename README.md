@@ -44,7 +44,7 @@ Hello there! My name is Danillo and currently I'm a Computer Science student at 
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=danilloism&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)](#)<br>
 --->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C744%20hrs%209%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C744%20hrs%2018%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-13%20hrs%2044%20mins-blue?style=flat)
 
@@ -65,21 +65,21 @@ Hello there! My name is Danillo and currently I'm a Computer Science student at 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                489 commits         ██████░░░░░░░░░░░░░░░░░░░   24.57 % 
-🌆 Daytime                1045 commits        █████████████░░░░░░░░░░░░   52.51 % 
-🌃 Evening                350 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.59 % 
-🌙 Night                  106 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.33 % 
+🌞 Morning                504 commits         ██████░░░░░░░░░░░░░░░░░░░   24.23 % 
+🌆 Daytime                1105 commits        █████████████░░░░░░░░░░░░   53.12 % 
+🌃 Evening                365 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.55 % 
+🌙 Night                  106 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.10 % 
 ```
-📅 **I'm Most Productive on Thursday** 
+📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   290 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.57 % 
-Tuesday                  282 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.17 % 
-Wednesday                304 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.28 % 
-Thursday                 369 commits         █████░░░░░░░░░░░░░░░░░░░░   18.54 % 
-Friday                   254 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.76 % 
-Saturday                 154 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 % 
-Sunday                   337 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.93 % 
+Monday                   308 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.81 % 
+Tuesday                  282 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.56 % 
+Wednesday                304 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.62 % 
+Thursday                 369 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.74 % 
+Friday                   254 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.21 % 
+Saturday                 163 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 % 
+Sunday                   400 commits         █████░░░░░░░░░░░░░░░░░░░░   19.23 % 
 ```
 
 
@@ -89,44 +89,43 @@ Sunday                   337 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-C#                       3 hrs 19 mins       ██████████████░░░░░░░░░░░   55.65 % 
-JavaScript               1 hr 11 mins        █████░░░░░░░░░░░░░░░░░░░░   20.01 % 
-Markdown                 59 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.59 % 
-Java Properties          19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.51 % 
-XML                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
+C#                       1 hr 35 mins        ████████████░░░░░░░░░░░░░   49.08 % 
+JavaScript               42 mins             █████░░░░░░░░░░░░░░░░░░░░   21.83 % 
+Markdown                 33 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.99 % 
+Java Properties          17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.92 % 
+Text                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
 
 🔥 Editors: 
-Claude Code              4 hrs 39 mins       ███████████████████░░░░░░   77.85 % 
-VS Code                  1 hr 19 mins        ██████░░░░░░░░░░░░░░░░░░░   22.15 % 
+Claude Code              2 hrs 20 mins       ██████████████████░░░░░░░   72.18 % 
+VS Code                  54 mins             ███████░░░░░░░░░░░░░░░░░░   27.82 % 
 
 🐱‍💻 Projects: 
-sipefosweb               5 hrs 59 mins       █████████████████████████   100.00 % 
+sipefosweb               3 hrs 15 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  5 hrs 59 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 15 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 49 mins (80.49%)
+⏱ AI Coding Time: 2 hrs 29 mins (76.67%)
 
-✍️ 3,486 lines written by AI, 92 lines written by hand (97.43% AI-written)
+✍️ 471 lines written by AI, 75 lines written by hand (86.26% AI-written)
 
-🔤 1,811,655 Input Tokens, 514,444 Output Tokens
+🔤 784,743 Input Tokens, 205,082 Output Tokens
 
-💵 $55.17 Estimated AI Cost This Week
+💵 $20.52 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 35 AI Prompts
+🧠 6 AI Sessions, 20 AI Prompts
 
-Opus                     3,681 lines         █████████████████████████   100.00 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opus                     662 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 97.43% of written lines came from AI
-📚 Verbose Prompter — average 2,598 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 5.54% of changed lines were hand-edited
+🤖 AI-Driven — 86.26% of written lines came from AI
+📚 Verbose Prompter — average 3,871 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 21.38% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Dart** 
@@ -146,5 +145,5 @@ Java                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/danilloism/danilloism/main/assets/bar_graph.png)
 
 
- Last Updated on 22/10/2026 21:50:39 UTC
+ Last Updated on 23/10/2026 21:35:03 UTC
 <!--END_SECTION:waka-->
